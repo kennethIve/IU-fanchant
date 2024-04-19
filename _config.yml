@@ -21,7 +21,8 @@
 title: IU Fantchant HK
 email: ouruhk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  OurUhk • 我們IU香港後援會
+  𝙈𝙚𝙒𝙚 / 𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠: OurUhk • 我們IU香港後援會
+  📽 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 & 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢: OurUhk
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://fanchants.ouruhk.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OurUhk
