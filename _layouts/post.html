@@ -20,9 +20,16 @@ layout: default
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">
       {{ page.title | escape }}
-      <a class="post-title p-name" style="float: right;" href="{{ page.youtube_url | escape }}"><i class="fa fa-youtube-play"></i></a>
+      <a class="post-title p-name" style="float: right;" href="{{ page.youtube_url | escape }}">
+        <!-- <i class="fa fa-youtube-play"></i> -->
+        <img style="height: 1em;" src="/assets/img/youtube_icon.png" >
+      </a>
     </h1>
-    {{ page.youtube_embed }}
+    {%- if page.youtube_embed -%}
+    <div class="youtube_embed_container">
+      {{ page.youtube_embed }}
+    </div>    
+    {%- endif -%}
     <p class="post-meta">
       <!-- <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

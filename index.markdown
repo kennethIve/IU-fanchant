@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-home page, pending design
+Testing page
