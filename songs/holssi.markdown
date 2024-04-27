@@ -98,7 +98,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
     </strong><span style="color:#ff6f00;"><strong>(跌囉)</strong></span><br>내 선택이야 늘 그랬듯이<br><strong>呢 梳踢嘰呀 嫩
         決呢嘟事</strong><br>엄쉬울 확률은 zero <strong>(zero)</strong><br><strong>恕嗚 劃亂鄰 zero
     </strong><span style="color:#ff6f00;"><strong>(zero)</strong></span></p>
-<p>남은 거 탈탈 털어줄게<br><strong>男問 哥 撻撻 拖囉豬嘅</strong><br>모두 행운을 빌어 (<span style="color:#ff6f00;">빌어)</span><br><strong>望嘟 慶嗚嗯
+<p>남은 거 탈탈 털어줄게<br><strong>男問 哥 撻撻 拖囉豬嘅</strong><br>모두 행운을 빌어 <span style="color:#ff6f00;">(빌어)</span><br><strong>望嘟 慶嗚嗯
         撇囉 </strong><span style="color:#ff6f00;"><strong>(撇囉)</strong></span></p>
 <p>구태여 인사하고 갈래<br><strong>估踢喲 意沙哈告 卡呢</strong><br>May god be with ya<br><strong>May god be with ya</strong></p>
 <p><br><span style="color:#ff6f00;">(See ya)</span><br><span style="color:#ff6f00;"><strong>(See ya)</strong></span></p>
