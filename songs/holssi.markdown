@@ -15,7 +15,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
         style="color:#ff6f00;">(위로)</span><br><strong>亨參 托 We囉 </strong><span
         style="color:#ff6f00;"><strong>(We囉)</strong></span><br>아니 적당히 미끈한 곳에<br><strong>阿鏈 藏燈牽 咪根亨 谷舍</strong><br>뿌리내리긴
     싫어 <span style="color:#ff6f00;"> (싫어)<br><strong>陪連呢連堅 事囉 </strong><span
-        style="color:#ff6f00;"><strong>(事囉)</strong></span></p>
+        style="color:#ff6f00;"><strong>(事囉)</strong></span>
 <p>&nbsp;</p>
 <p>내 뒤로 착착 따라붙어<br><strong>呢 跌囉 拆拆 打啦賠多</strong><br>다 예쁘게 줄 지어 (줄 지어)<br><strong>太 嘢杯嘅 豬 字餓 </strong><span
         style="color:#ff6f00;"><strong>(豬 字餓)</strong></span><br>Um, What a tiny leader <span
