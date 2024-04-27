@@ -11,7 +11,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 
 ---
 <p class="p-center"><span style="color:#ff6f00;"><strong>橙色為應援</strong></span></p>
-<p>내가 누울 자린 <strong>아마도</strong><br><strong>呢家 嚕會 查鏈 阿媽都</strong><br>한참 더 위로 <span
+<p>내가 누울 자린 아마도 <br><strong>呢家 嚕會 查鏈 阿媽都</strong><br>한참 더 위로 <span
         style="color:#ff6f00;">(위로)</span><br><strong>亨參 托 We囉 </strong><span
         style="color:#ff6f00;"><strong>(We囉)</strong></span><br>아니 적당히 미끈한 곳에<br><strong>阿鏈 藏燈牽 咪根亨 谷舍</strong><br>뿌리내리긴
     싫어 <span style="color:#ff6f00;"><strong>(싫어)</strong></span><br><strong>陪連呢連堅 事囉 </strong><span
