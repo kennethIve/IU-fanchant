@@ -19,8 +19,8 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>&nbsp;</p>
 <p>내 뒤로 착착 따라붙어<br><strong>呢 跌囉 拆拆 打啦賠多</strong><br>다 예쁘게 줄 지어 (줄 지어)<br><strong>太 嘢杯嘅 豬 字餓 </strong><span
         style="color:#ff6f00;"><strong>(豬 字餓)</strong></span><br>Um, What a tiny leader <span
-        style="color:#ff6f00;">(lea, leader)</span></p>
-<p><strong>Um, What a tiny leader </strong><span style="color:#ff6f00;"><strong>(lea, leader)</strong></span></p>
+        style="color:#ff6f00;">(lea, leader)</span>
+<br><strong>Um, What a tiny leader </strong><span style="color:#ff6f00;"><strong>(lea, leader)</strong></span></p>
 <p>&nbsp;</p>
 <p>아슬아슬히 <span style="color:#ff6f00;">나는</span><br><strong>阿嘶阿嘶鏈 </strong><span
         style="color:#ff6f00;"><strong>娜嗯</strong></span><br>홀씨 하나 <span style="color:#ff6f00;">또
@@ -33,8 +33,8 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#ff6f00;">걔는 홀씨가 됐다구</span><br><span style="color:#ff6f00;"><strong>嘅能 好事家 踢太姑</strong></span></p>
 <p>&nbsp;</p>
 <p>날 따라, <span style="color:#ff6f00;">gonna go to win</span><br><strong>啦 打啦, </strong><span
-        style="color:#ff6f00;"><strong>gonna go to win</strong></span></p>
-<p>날 따라, 날아가 꼭대기루<br><strong>啦 打啦, 娜啦嫁 谷爹見嚕</strong><br>You say, <span style="color:#ff6f00;">'후'</span><br><strong>You
+        style="color:#ff6f00;"><strong>gonna go to win</strong></span>
+<br>날 따라, 날아가 꼭대기루<br><strong>啦 打啦, 娜啦嫁 谷爹見嚕</strong><br>You say, <span style="color:#ff6f00;">'후'</span><br><strong>You
         say, </strong><span style="color:#ff6f00;"><strong>'呼'</strong></span><br>I may fly<br><strong>I may
         fly</strong><br>You say, <span style="color:#ff6f00;">'후'</span><br><strong>You say, </strong><span
         style="color:#ff6f00;"><strong>‘呼’</strong></span><br><span style="color:#ff6f00;">Then I fly</span><br><span
@@ -96,7 +96,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>&nbsp;</p>
 <p>앞길이 만만치 않아도<br><strong>阿見鏈 慢慢痴 奀娜都</strong><br>엄살은 뒤로 <span style="color:#ff6f00;">(뒤로)</span><br><strong>戇生攣 跌囉
     </strong><span style="color:#ff6f00;"><strong>(跌囉)</strong></span><br>내 선택이야 늘 그랬듯이<br><strong>呢 梳踢嘰呀 嫩
-        決呢嘟事</strong><br>엄쉬울 확률은 zero <span style="color:#ff6f00;">(</span><strong>zero)</strong><br><strong>恕嗚 劃亂鄰 zero
+        決呢嘟事</strong><br>엄쉬울 확률은 zero <strong>(zero)</strong><br><strong>恕嗚 劃亂鄰 zero
     </strong><span style="color:#ff6f00;"><strong>(zero)</strong></span></p>
 <p>남은 거 탈탈 털어줄게<br><strong>男問 哥 撻撻 拖囉豬嘅</strong><br>모두 행운을 빌어 (<span style="color:#ff6f00;">빌어)</span><br><strong>望嘟 慶嗚嗯
         撇囉 </strong><span style="color:#ff6f00;"><strong>(撇囉)</strong></span></p>
