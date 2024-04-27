@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IU Fantchant HK
+title: IU Fanchant HK
 email: ouruhk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   𝙈𝙚𝙒𝙚 / 𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠: OurUhk • 我們IU香港後援會

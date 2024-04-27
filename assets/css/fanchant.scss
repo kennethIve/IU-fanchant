@@ -51,13 +51,13 @@
 
 main,footer{
   background-color: #030712;
-  color: #9f9e9e;
+  color: #ffffff;
 }
 
 .site-title{
   font-weight: 600;
   text-decoration: none;
-  color: #f1f1f1 !important;
+  color: #ffffff !important;
 }
 
 .wrapper > a:link{
@@ -72,4 +72,14 @@ main,footer{
 .site-header{  
   background: linear-gradient(180deg,rgba(0,0,0,0) 0,#030712 100%),linear-gradient(114deg,#b75d71 0,#030712 100%);
   border-bottom: 1px solid #595959;
+}
+
+
+.p-center{
+  display: flex;
+  justify-content: center;
+}
+
+.post-title{
+  font-weight: 600;
 }
