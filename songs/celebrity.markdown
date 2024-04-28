@@ -10,7 +10,7 @@ youtube_url: https://youtu.be/0-q1KafFCLU?feature=shared
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/0-q1KafFCLU?si=bUL9RkHikgupuEiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：耳空</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#ffd54f;"><strong>黃色：應援</strong></span></p>
 
 <p>세상의 모서리<br><span style="color:#e57373;"><strong>瀉生呢 冇梳咧</strong></span></p>
