@@ -10,8 +10,8 @@ youtube_url: https://youtu.be/mFbILexYSQg?feature=shared
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/mFbILexYSQg?si=ZehNwvHLOQegf0tJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p style="display: flex; justify-content: center;"><span style="color:#ff6f00;"><strong>橙色:應援</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色:空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#ff6f00;"><strong>橙色:應援</strong></span></p>
 <p>내가 누울 자린 아마도<br><span style="color:#64b5f6;"><strong>呢家 嚕會 查鏈 阿媽都</strong></span><br>한참 더 위로 <span style="color:#ff6f00;">(위로)</span><br><span style="color:#64b5f6;"><strong>亨參 托 We囉 </strong></span><span style="color:#ff6f00;"><strong>(We囉)</strong></span><br>아니 적당히 미끈한 곳에<br><span style="color:#64b5f6;"><strong>阿鏈 藏燈牽 咪根亨 谷舍</strong></span><br>뿌리내리긴 싫어 <span style="color:#ff6f00;">(싫어)</span><br><span style="color:#64b5f6;"><strong>陪連呢連堅 事囉 </strong></span><span style="color:#ff6f00;"><strong>(事囉)</strong></span></p>
  <p>&nbsp;</p>
 <p>내 뒤로 착착 따라붙어<br><span style="color:#64b5f6;"><strong>呢 跌囉 拆拆 打啦賠多</strong></span><br>다 예쁘게 줄 지어 <span style="color:#ff6f00;">(줄 지어)</span><br><span style="color:#64b5f6;"><strong>太 嘢杯嘅 豬 字餓 </strong></span><span style="color:#ff6f00;"><strong>(豬 字餓)</strong></span><br>Um, What a tiny leader<span style="color:#ff6f00;"> (lea, leader)</span><br><span style="color:#64b5f6;"><strong>Um, What a tiny leader </strong></span><span style="color:#ff6f00;"><strong>(lea, leader)</strong></span></p>
