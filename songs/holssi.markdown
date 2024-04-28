@@ -10,7 +10,7 @@ youtube_url: https://youtu.be/mFbILexYSQg?feature=shared
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/mFbILexYSQg?si=ZehNwvHLOQegf0tJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色:耳空</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色:空耳</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#ff6f00;"><strong>橙色:應援</strong></span></p>
 <p>내가 누울 자린 아마도<br><span style="color:#64b5f6;"><strong>呢家 嚕會 查鏈 阿媽都</strong></span></p>
 <p>한참 더 위로 <span style="color:#ff6f00;">(위로)</span><br><span style="color:#64b5f6;"><strong>亨參 托 We囉 </strong></span><span style="color:#ff6f00;"><strong>(We囉)</strong></span></p>
