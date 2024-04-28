@@ -10,7 +10,7 @@ youtube_url: https://youtu.be/REcKDqT4uhQ?feature=shared&t=88
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/REcKDqT4uhQ?si=5x27TDtG5WA0V9th&amp;start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p style="display: flex; justify-content: center;"><span style="color:#ba68c8;"><strong>紫色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#ba68c8;"><strong>紫色：耳空/strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色：應援</strong></span></p>
 
 <p>00:05</p>
