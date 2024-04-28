@@ -13,7 +13,6 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p style="display: flex; justify-content: center;"><span style="color:#ba68c8;"><strong>紫色：空耳</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色：應援</strong></span></p>
 
-
 <p>00:05</p>
 <p><span style="color:#64b5f6;">(지.은.이.아.이.유.의.블.루.밍)</span><br><span style="color:#64b5f6;">(<strong>知.銀.黏. 啊.兒. U. 夜 BU LU MING)</strong></span></p>
 <p>&nbsp;</p>
