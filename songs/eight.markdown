@@ -10,7 +10,7 @@ youtube_url: https://youtu.be/Cxzzg7L3Xgc?feature=shared&t=88
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/Cxzzg7L3Xgc?si=0MEbPtF84ArLDoF6&amp;start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p style="display: flex; justify-content: center;"><span style="color:#ffb74d;;"><strong>橙色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#ffb74d;;"><strong>橙色：耳空</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：應援</strong></span></p>
 
 <p>So are you happy now?<br></style><span style="color:#ffb74d;"><strong>So are you happy now?</strong></span>
