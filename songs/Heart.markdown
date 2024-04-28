@@ -9,8 +9,8 @@ youtube_url: https://youtu.be/Xco5vbBmF5c?feature=shared&t=274
 # youtube page click share -> click embed -> copy it in here, leave it blank if dont 
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/Xco5vbBmF5c?si=-cYJw5Y3BAC8D6pW&amp;start=274" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
-<p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色：空耳</strong></span></p>
-<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：應援</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>藍色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>紅色：應援</strong></span></p>
 
 <p><span style="color:#e57373;">툭 웃음이 터지면, 그건 너</span><br><span style="color:#e57373;"><strong>秃 屋嬋咪 拖次望, 決降 羅</strong></span></p>
 <p><span style="color:#e57373;">쿵 내려앉으면은, 그건 너</span><br><span style="color:#e57373;"><strong>空 呢列奀摺望能, 決降 羅</strong></span></p>
