@@ -13,7 +13,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p style="display: flex; justify-content: center;"><span style="color:#ffd54f;"><strong>黃色:空耳</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>橙色:應援</strong></span></p>
 
-<p>Hi there 인사해 호들갑 없이<code>br</code><span style="color:#ffd54f;"><strong>Hi there 現沙Hea 呵脫夾 惡時</strong></span></p>
+<p>Hi there 인사해 호들갑 없이<br><span style="color:#ffd54f;"><strong>Hi there 現沙Hea 呵脫夾 惡時</strong></span></p>
 <p>시작해요 서론 없이<span style="color:#ffd54f;"><strong> 事扎Hea喲 梳囉 惡時</strong></span></p>
 <p>&nbsp;</p>
 <p>스킨십은 사양할게요&nbsp;<span style="color:#e57373;">back off back off</span> <span style="color:#ffd54f;"><strong>時堅攝笨 沙癢Hi哥喲</strong></span><span style="color:#e57373;"><strong> back off back off</strong></span></p>
