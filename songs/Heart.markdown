@@ -30,7 +30,8 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>&nbsp;</p>
 <p><span style="color:#e57373;">제게 대답하지 않으셔도 돼요</span><br><span style="color:#e57373;"><strong>車嘅 踢答怕次 晏能傻多 踢喲</strong></span></p>
 <p><span style="color:#e57373;">달래주지 않으셔도</span><br><span style="color:#e57373;"><strong>他呢咄次 晏能傻多</strong></span></p>
-<p><span style="color:#e57373;">다만 꺼지지 않는 작은 불빛이</span><br><span style="color:#e57373;"><strong>打慢 角之之 晏能 拆琴 賠別次</strong></span><br><span style="color:#e57373;">여기 반짝 살아있어요</span><br><span style="color:#e57373;"><strong>喲結 攀拆 沙啦姨所喲</strong></span></p>
+<p><span style="color:#e57373;">다만 꺼지지 않는 작은 불빛이</span><br><span style="color:#e57373;"><strong>打慢 角之之 晏能 拆琴 賠別次</strong></span></p>
+<p><span style="color:#e57373;">여기 반짝 살아있어요</span><br><span style="color:#e57373;"><strong>喲結 攀拆 沙啦姨所喲</strong></span></p>
 <p>&nbsp;</p>
 <p>세상 모든 게 죽고 새로 태어나<br><span style="color:#64b5f6;"><strong>石山 摩登 嘅 咄哥 些羅 踢哦啦</strong></span></p>
 <p>다시 늙어갈 때에도<br><span style="color:#64b5f6;"><strong>他思 鄰角格 爹誒多</strong></span></p>
