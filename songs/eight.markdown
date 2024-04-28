@@ -10,9 +10,10 @@ youtube_url: https://youtu.be/Cxzzg7L3Xgc?feature=shared&t=50
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/Cxzzg7L3Xgc?si=0MEbPtF84ArLDoF6&amp;start=50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p>So are you happy now?<br>
-    <style type="text/css"></style><span style="color:#ffb74d;"><strong>So are you happy now?</strong></span>
-</p>
+<p style="display: flex; justify-content: center;"><span style="color:#ffb74d;;"><strong>橙色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：應援</strong></span></p>
+
+<p>So are you happy now?<br><span style="color:#ffb74d;"><strong>So are you happy now?</strong></span></p>
 <p>Finally happy now? Yeah<br><span style="color:#ffb74d;"><strong>Finally happy now? Yeah</strong></span></p>
 <p>뭐 그대로야 난<br><span style="color:#ffb74d;"><strong>摸 決爹路吔 難</strong></span></p>
 <p>다 잃어버린 것 같아<br><span style="color:#ffb74d;"><strong>太 依囉播鏈 角 嫁踢</strong></span></p>
