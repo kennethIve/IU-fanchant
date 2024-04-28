@@ -13,11 +13,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p style="display: flex; justify-content: center;"><span style="color:#ffd54f;"><strong>黃色:空耳</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>橙色:應援</strong></span></p>
 
-<p>Hi there 인사해 호들갑 없이<br><span style="color:#ffd54f;"><strong>Hi there 現沙Hea 呵脫夾 惡時</strong></span></p>
-<p>시작해요 서론 없이<span style="color:#ffd54f;"><strong> 事扎Hea喲 梳囉 惡時</strong></span></p>
-<p>&nbsp;</p>
-<p>스킨십은 사양할게요&nbsp;<span style="color:#e57373;">back off back off</span> <span style="color:#ffd54f;"><strong>時堅攝笨 沙癢Hi哥喲</strong></span><span style="color:#e57373;"><strong> back off back off</strong></span></p>
-<br>이대로 좋아요&nbsp;<span style="color:#e57373;">balance balance</span> <span style="color:#ffd54f;"><strong>姨爹囉 錯嘩喲&nbsp;</strong></span> <span style="color:#e57373;"><strong>balance balance</strong></span></p>
+<p>Hi there 인사해 호들갑 없이<br><span style="color:#ffd54f;"><strong>Hi there 現沙Hea 呵脫夾 惡時</strong></span><br>시작해요 서론 없이<br><span style="color:#ffd54f;"><strong>事扎Hea喲 梳囉 惡時</strong></span><br>스킨십은 사양할게요&nbsp;<span style="color:#e57373;">back off back off</span><br><span style="color:#ffd54f;"><strong>時堅攝笨 沙癢Hi哥喲 </strong></span><span style="color:#e57373;"><strong>back off back off</strong></span><br>이대로 좋아요&nbsp;<span style="color:#e57373;">balance balance</span><br><span style="color:#ffd54f;"><strong>姨爹囉 錯嘩喲&nbsp;</strong></span> <span style="color:#e57373;"><strong>balance balance</strong></span></p>
 <p>&nbsp;</p>
 <p>It's me 나예요 다를 거 없이 <span style="color:#ffd54f;"><strong>It's me 娜耶喲 大鄰 哥 惡時</strong></span><br>요즘엔 뭔가요 내 가십 <span style="color:#ffd54f;"><strong>喲沾誒 摸嫁喲 呢 家攝</strong></span><br>탐색하는 불빛&nbsp;<span style="color:#e57373;">scanner scanner</span> <span style="color:#ffd54f;"><strong>塔錫哈嗯 賠撇</strong></span>&nbsp;<span style="color:#e57373;"><strong>scanner scanner</strong></span><br>오늘은 몇 점인가요?&nbsp;<span style="color:#e57373;">jealous jealous</span> <span style="color:#ffd54f;"><strong>哦嚕鄰 莫 臟意家喲?</strong></span>&nbsp;<span style="color:#e57373;"><strong>jealous jealous</strong></span></p>
 <p>&nbsp;</p>
