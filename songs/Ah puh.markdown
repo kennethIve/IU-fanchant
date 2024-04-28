@@ -1,217 +1,221 @@
 ---
 layout: post
 # Song name
-title: ?? (Ah puh)
+title: ì–´í‘¸ (Ah puh))
 date:   2024-04-13 22:05:26 +0800
 categories: Fanchant
 # youtube url that redirect to the song
 youtube_url: https://youtu.be/7n9D8ZeOQv0?feature=shared
 # youtube page click share -> click embed -> copy it in here, leave it blank if dont 
-youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/7n9D8ZeOQv0?si=berk7KmiNW0oSPtX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/7n9D8ZeOQv0?si=3-pN7yWHb6T8m_SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p style="display: flex; justify-content: center;"><span style="color:hsl(0,100%,75%);"><strong>¬õ¦â¡GÀ³´©</strong></span></p>
-<p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>ÂÅ¦â¡GÀ³´©</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>ç´…è‰²ï¼šç©ºè€³</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>è—è‰²ï¼šæ‡‰æ´</strong></span></p>
+
 <p>I'm such a good surfer</p>
-<p><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>I'm such a good surfer</strong></span><br>???? ??</p>
-<p><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>¥d°Õªü¦r Ê±¼T</strong></span><br>?? ? ?? ???? ?? uh</p>
+<p><span style="color:#e57373;"><strong>I'm such a good surfer</strong></span><br>ê°€ë¼ì•‰ì§€ ì•Šê¸°</p>
+<p><span style="color:#e57373;"><strong>å¡å•¦é˜¿å­— å¥€å˜°</strong></span><br>ë¹„í‹€ ë¹„ ë¹„í‹€ ê±°ë¦¬ë‹¤ê°€ í’ë© uh</p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>ºJ²æ ºJ ºJ²æ ­ô³s¥´®a ½ß·í uh</strong></span><br>????? ??? ?? ??
+    <style type="text/css"></style><span style="color:#e57373;"><strong>æ’‡è„« æ’‡ æ’‡è„« å“¥é€£æ‰“å®¶ è³ ç•¶ uh</strong></span><br>ë¹ ì§€ë”ë¼ë„ êµ¬ëª…ë³µ ë”°ìœˆ ì¡¸ì—…
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>©È¦r¦«°Õ³£ ¦ô±æ¹² ¥´Win ·bÅo&nbsp;</strong></span>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>æ€•å­—æ‰˜å•¦éƒ½ ä¼°æœ›åƒ• æ‰“Win æ“å›‰&nbsp;</strong></span>
 </p>
 <p>&nbsp;</p>
 <p>I'm such a good surfer</p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>I'm such a good surfer</strong></span><br>???? ??
+    <style type="text/css"></style><span style="color:#e57373;"><strong>I'm such a good surfer</strong></span><br>íœ©ì“¸ë¦¬ì§€ ì•Šê¸°
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>Hip¨ÆÃì¦r Ê±¼T</strong></span><br>?? ? ?? ???? throw up
+    <style type="text/css"></style><span style="color:#e57373;"><strong>Hipäº‹éˆå­— å¥€å˜°</strong></span><br>ìš¸ë  ìš° ìš¸ë  ê±°ë¦¬ë‹¤ê°€ throw up
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>¶ãÅo ¶ã ¶ãÅo ­ôÃì¥´®a throw up</strong></span><br>?????? ?? ? ? ? ??
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å—šå›‰ å—š å—šå›‰ å“¥éˆæ‰“å®¶ throw up</strong></span><br>ê²Œì›Œë‚´ë”ë¼ë„ ì§€ëŠ” ê±´ ë‚œ ëª» ì°¸ì•„
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>?Ø{©O¦h°Õ³£ ¦r¶â °® Ãø ¤ì ?¶ý</strong></span>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å˜…å–Žå‘¢å¤šå•¦éƒ½ å­—å—¯ ä¹¾ é›£ æœ¨ æ¸åª½</strong></span>
 </p>
-<p>?? ?? ??</p>
+<p>ì œì¼ ë†’ì€ íŒŒë„</p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>©j«¼ ³°¼â ©È³£</strong></span><br>???? ?????
-</p>
-<p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>®@°Õ¥L¥L °Õ©î©î¶ãªü</strong></span><br>??? ?? ??? ???
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å§å§¨ é™¸æ½‘ æ€•éƒ½</strong></span><br>ì˜¬ë¼íƒ€íƒ€ ë¼ì°¨ì°¨ìš°ì•„
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>Hea«¼¥Ê ?? ¨F°Õ¦r ¥L¨Ì»Ê</strong></span><br>?? ?? ??
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å“¦å•¦ä»–ä»– å•¦æ‹†æ‹†å—šé˜¿</strong></span><br>í•´ì¼ê³¼ í•¨ê»˜ ì‚¬ë¼ì§ˆ íƒ€ì´ë°
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;"><strong>¨M·F ©O®a §i°Õ</strong></span><br>?? ?? ?? ???, ??? ?
+    <style type="text/css"></style><span style="color:#e57373;"><strong>Heaå§¨ç“œ å†šå˜… æ²™å•¦å­— ä»–ä¾éŠ˜</strong></span><br>ê·¸ê±´ ë‚´ê°€ ê³¨ë¼
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;©f¥Ó ®ÞÃì ­ôÃä ®R¼T¶â, ¨®«}¦r ºN&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:2,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:5,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:6,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:8,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:9,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:12,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:14,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:17,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12}}Ÿô{&quot;1&quot;:18,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12}}"><strong>©f¥Ó ®ÞÃì ­ôÃä ®R¼T¶â, ¨®«}¦r ºN</strong></span></span>
-</p>
-<p>&nbsp;</p>
-<p>??? ??? ?</p>
-<p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;®@®@®@ ¼â¼â¼â ¨ì&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:8,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>®@®@®@ ¼â¼â¼â ¨ì</strong></span></span><br>??? ????
+    <style type="text/css"></style><span style="color:#e57373;"><strong>æ±ºå¹¹ å‘¢å®¶ å‘Šå•¦</strong></span><br>ë¬´ìŠ¨ ì†Œë¦¬ ê²ì´ ë‚˜ê¸°ëŠ”, ìž¬ë°Œì§€ ë­
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;¨þ¨þ¨þ ¶ã¶ã¶ã Chock&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>¨þ¨þ¨þ ¶ã¶ã¶ã Chock</strong></span></span><br>??? ??? ?
-</p>
-<p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;¨¤¨¤¨¤ ©O¦h·í ¨Æ&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>¨¤¨¤¨¤ ©O¦h·í ¨Æ</strong></span></span><br>??? ???
-</p>
-<p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;§@§@§@ ®R°Õ±æ&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>§@§@§@ ®R°Õ±æ</strong></span></span><br>??? ? ???
-</p>
-<p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ø{®@®@ ¨Ì ¨F?¶ý&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>Ø{®@®@ ¨Ì ¨F?¶ý</strong></span></span><br>??? ?? ???
-</p>
-<p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;®@©j§@ äM¼T ¦U©O®R&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:5,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:6,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>®@©j§@ äM¼T ¦U©O®R</strong></span></span><br>???? ???? ????
-</p>
-<p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;±CÄê¯S¨Æ Hea®@·ö¨£ ¿ù¿ù¼½»é&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>±CÄê¯S¨Æ Hea®@·ö¨£ ¿ù¿ù¼½»é</strong></span></span>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å¦¹ç”³ æ¢³éˆ å“¥é‚Š å¨œå˜°å—¯, è»Šå’ªå­— æ‘¸</strong></span>
 </p>
 <p>&nbsp;</p>
-<p>??? ??? ?</p>
+<p><span style="color:#64b5f6;">ì–´ì–´ì–´ í‘¸í‘¸í‘¸ ë˜</span></p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;§@§@§@ ¶Û¶Û¶Û ¨ì&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:8,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>§@§@§@ ¶Û¶Û¶Û ¨ì</strong></span></span><br>??? ???
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å“¦å“¦å“¦ æ½‘æ½‘æ½‘ åˆ°</strong></span><br><span style="color:#64b5f6;">í—ˆí—ˆí—ˆ ìš°ìš°ìš°ì </span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;§@§@§@ ¶Û¶Û¶Û&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>§@§@§@ ¶Û¶Û¶Û</strong></span></span><br>??? ?? ?? ??? ???
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å‘µå‘µå‘µ å—šå—šå—š Chock</strong></span><br><span style="color:#64b5f6;">ê±°ê±°ê±° ë¦¬ë”ë˜ ì‹œ</span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;¨¤¨¤¨¤ ´c¸Ö ±æ°Ý «×«×«× ÆwÆwÆw&quot;}" data-sheets-userformat="{&quot;2&quot;:31361,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:3}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:6}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:8}Ÿô{&quot;1&quot;:10,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:13}Ÿô{&quot;1&quot;:14,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:16}"><strong>¨¤¨¤¨¤ ´c¸Ö ±æ°Ý «×«×«× ÆwÆwÆw</strong></span></span>
-</p>
-<p><br>??? ? ???</p>
-<p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ø{®@®@ ¨Ì ¨F?¶ý&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>Ø{®@®@ ¨Ì ¨F?¶ý</strong></span></span><br>? ???? ???
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>è§’è§’è§’ å‘¢å¤šç•¶ äº‹</strong></span><br><span style="color:#64b5f6;">ì €ì €ì ˆ ë‚˜ë¼ë©´</span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ºN ¨M¸¨?®R Åo©O°Õ&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:1,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:2,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:6,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>ºN ¨M¸¨?®R Åo©O°Õ</strong></span></span><br>? ??? ? ????
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>ä½œä½œä½œ å¨œå•¦æœ›</strong></span><br><span style="color:#64b5f6;">ì›Œì–´ì–¸ ì´ ì‚¬ëžŒì•„</span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;¦« ©j«}¶â ­ô ¼½³é½Þ?&quot;}" data-sheets-userformat="{&quot;2&quot;:31361,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:1}Ÿô{&quot;1&quot;:2,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:5}Ÿô{&quot;1&quot;:6,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:7}Ÿô{&quot;1&quot;:8,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}"><strong>¦« ©j«}¶â ­ô ¼½³é½Þ?</strong></span></span><br>When the wave has come
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å–Žå“¦å“¦ ä¾ æ²™å†§åª½</strong></span><br><span style="color:#64b5f6;">ì–¸ì œì  ì–˜ê¸¸ êº¼ë‚´ë‚˜</span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;When the wave has come&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>When the wave has come</strong></span></span>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å“¦å§ä½œ èª’å˜° å„å‘¢å¨œ</strong></span><br><span style="color:#64b5f6;">ë³´ëž€ë“¯ì´ í—¤ì—„ì¹˜ê¸° ì²˜ì²¨ë²„ë²™</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å©†çˆ›ç‰¹äº‹ Heaå“¦ç—´è¦‹ éŒ¯éŒ¯æ’­é§</strong></span>
+</p>
+<p>&nbsp;</p>
+<p><span style="color:#64b5f6;">ì €ì €ì  ì…”ì…”ì…” ë˜</span></p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>ä½œä½œä½œ å—¦å—¦å—¦ åˆ°</strong></span><br><span style="color:#64b5f6;">ì €ì €ì  ì…”ì…”ì…”</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>ä½œä½œä½œ å—¦å—¦å—¦</strong></span><br><span style="color:#64b5f6;">ê±°ê±°ê² ì—†ì´ ëª¸ì„ ë”ë”ë˜ ì ¸ì ¸ì ¸</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>è§’è§’è§’ æƒ¡è©© æœ›å• åº¦åº¦åº¦ é‘¿é‘¿é‘¿</strong></span><br><span style="color:#64b5f6;">ì›Œì–´ì–¸ ì´ ì‚¬ëžŒì•„</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å–Žå“¦å“¦ ä¾ æ²™å†§åª½</strong></span><br><span style="color:#64b5f6;">ë­˜ ê·¸ë ‡ê²Œë‚˜ ë†€ëž˜ë‚˜</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>æ‘¸ æ±ºè½å˜…å¨œ å›‰å‘¢å•¦</strong></span><br><span style="color:#64b5f6;">ë” ìž¬ë°ŒëŠ” ê±¸ ë³´ì—¬ì¤„ê²Œ</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>æ‰˜ å§å’ªå—¯ å“¥ æ’­å–²è±¬å˜…</strong></span><br><span style="color:#64b5f6;">When the wave has come</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>When the wave has come</strong></span>
 </p>
 <p>&nbsp;</p>
 <p>I'm a bubble maker</p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>I'm a bubble maker</strong></span></span><br>??? ???
+    <style type="text/css"></style><span style="color:#e57373;"><strong>I'm a bubble maker</strong></span><br>ìž”ìž”í•œ ë°”ë‹¤ë¥¼
 </p>
 <p>
-    <style type="text/css"></style>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>¼µ¼µ¤U ­w¤j¾F</strong></span></span><br>?? ? ?? ???? villain uh
+    <style type="text/css"></style><span style="color:#e57373;"><strong>&nbsp;</strong></span>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>æ’æ’ä¸‹ è¶´å¤§é„°</strong></span><br>ì§€ê¸‹ ì§€ ì§€ê¸‹ ê´´ë¡­ížˆëŠ” villain uh
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>¦r¨M ¦r ¦r¨M ´¦¸ôºJ¶â villain uh</strong></span></span><br>??? ??? ? ?? ? ? ? ?
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å­—æ±º å­— å­—æ±º æ­è·¯æ’‡å—¯ villain uh</strong></span><br>ë‚˜ì´ë¥¼ ë¨¹ì–´ë„ ì´ ë²„ë¦‡ ë‚¨ ëª» ì¤˜ ë‚œ
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>®R«¼¯à ºN­ô³£ «¼ ±C¾F ¨k ¤ì ¥ª ®R</strong></span></span>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å¨œå§¨èƒ½ æ‘¸å“¥éƒ½ å§¨ å©†é„° ç”· æœ¨ å·¦ å¨œ</strong></span>
 </p>
 <p>&nbsp;</p>
 <p>I'm a bubble maker</p>
-<p><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>I'm a bubble maker</strong></span></span><br>?? ????</p>
+<p><span style="color:#e57373;"><strong>I'm a bubble maker</strong></span><br>ì´ì œ ì´ì¯¤ì´ì•¼</p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>«¼©j «¼ºP«}?</strong></span></span><br>?? ? ?? ??? suck it up
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å§¨å§ å§¨æ‘ºå’ªå”</strong></span><br>ì¶œë  ì¶” ì¶œë  ë©€ë¯¸ë„ suck it up
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>µ´®ö µ´ µ´®ö ±æÃì³£ suck it up</strong></span></span><br>? ????? ??? ? ? ??
+    <style type="text/css"></style><span style="color:#e57373;"><strong>çµ•æµª çµ• çµ•æµª æœ›éˆéƒ½ suck it up</strong></span><br>ë¬¼ ë¨¹ì´ë”ë¼ë„ ì´ê³³ì„ ë‚œ ëª» ë– ë‚˜
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>©f ±æ¼T¦«°Õ³£ «¼¨¦¼¹ ®R ¤ì ¦h°Õ</strong></span></span>
-</p>
-<p>&nbsp;</p>
-<p>?? ?? ??</p>
-<p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>©j«¼ ³°¼â ©È³£</strong></span></span><br>???? ?????
-</p>
-<p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>®@°Õ¥L¥L °Õ©î©î¶ãªü</strong></span></span><br>??? ?? ??? ???
-</p>
-<p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>¤º¶ã¥Ê ?? ½ß®Þ¦r ¥L¨Ì»Ê</strong></span></span><br>?? ?? ??
-</p>
-<p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>¨M·F ©O®a §i°Õ</strong></span></span><br>?? ?? ?? ???, ??? ?
-</p>
-<p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>©f¥Ó ®ÞÃì ­ôÃä ®R¼T¶â, ¨®«}¦r ºN</strong></span></span>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å¦¹ æœ›å˜°æ‰˜å•¦éƒ½ å§¨è°·æ’• å¨œ æœ¨ å¤šå•¦</strong></span>
 </p>
 <p>&nbsp;</p>
-<p>??? ??? ?</p>
+<p>ì œì¼ ë†’ì€ íŒŒë„</p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;®@®@®@ ¼â¼â¼â ¨ì&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:8,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>®@®@®@ ¼â¼â¼â ¨ì</strong></span></span><br>??? ????
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å§å§¨ é™¸æ½‘ æ€•éƒ½</strong></span><br>ì˜¬ë¼íƒ€íƒ€ ë¼ì°¨ì°¨ìš°ì•„
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;¨þ¨þ¨þ ¶ã¶ã¶ã Chock&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>¨þ¨þ¨þ ¶ã¶ã¶ã Chock</strong></span></span><br>??? ??? ?
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å“¦å•¦ä»–ä»– å•¦æ‹†æ‹†å—šé˜¿</strong></span><br>ë„ˆìš¸ê³¼ í•¨ê»˜ ë¶€ì„œì§ˆ íƒ€ì´ë°
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;¨¤¨¤¨¤ ©O¦h·í ¨Æ&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>¨¤¨¤¨¤ ©O¦h·í ¨Æ</strong></span></span><br>??? ???
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å…§å—šç“œ å†šå˜… è³ æ¢³å­— ä»–ä¾éŠ˜</strong></span><br>ê·¸ê±´ ë‚´ê°€ ê³¨ë¼
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;§@§@§@ ®R°Õ±æ&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>§@§@§@ ®R°Õ±æ</strong></span></span><br>??? ? ???
+    <style type="text/css"></style><span style="color:#e57373;"><strong>æ±ºå¹¹ å‘¢å®¶ å‘Šå•¦</strong></span><br>ë¬´ìŠ¨ ì†Œë¦¬ ê²ì´ ë‚˜ê¸°ëŠ”, ìž¬ë°Œì§€ ë­
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ø{®@®@ ¨Ì ¨F?¶ý&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>Ø{®@®@ ¨Ì ¨F?¶ý</strong></span></span><br>??? ?? ???
-</p>
-<p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;®@©j§@ äM¼T ¦U©O®R&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:5,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:6,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;·s²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>®@©j§@ äM¼T ¦U©O®R</strong></span></span><br>???? ???? ????
-</p>
-<p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;©R¤ò«}Åo Hea®@·ö¼T §@ª¬¼½»é&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>©R¤ò«}Åo Hea®@·ö¼T §@ª¬¼½»é</strong></span></span>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å¦¹ç”³ æ¢³éˆ å“¥é‚Š å¨œå˜°å—¯, è»Šå’ªå­— æ‘¸</strong></span>
 </p>
 <p>&nbsp;</p>
-<p>? ? ?? ???</p>
+<p><span style="color:#64b5f6;">ì–´ì–´ì–´ í‘¸í‘¸í‘¸ ë˜</span></p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>®@ ³£ ¼½©O ¾Ø¶â«§</strong></span></span><br>?? ?? ???
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å“¦å“¦å“¦ æ½‘æ½‘æ½‘ åˆ°</strong></span><br><span style="color:#64b5f6;">í—ˆí—ˆí—ˆ ìš°ìš°ìš°ì </span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>¾Ø¨Æ ©sÃø ÜÝ®a¦r</strong></span></span><br>?? ??? ??
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å‘µå‘µå‘µ å—šå—šå—š Chock</strong></span><br><span style="color:#64b5f6;">ê±°ê±°ê±° ë¦¬ë”ë˜ ì‹œ</span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>½ß¶^ ¼y¶ã¶â ºJÅo</strong></span></span><br>??? ???
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>è§’è§’è§’ å‘¢å¤šç•¶ äº‹</strong></span><br><span style="color:#64b5f6;">ì €ì €ì ˆ ë‚˜ë¼ë©´</span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>¦r¨¤? ¼½¬µ°ª</strong></span></span>
-</p>
-<p>&nbsp;</p>
-<p>? ??? ? ??</p>
-<p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>¼R ®a¼½? ®R ±æ§@</strong></span></span><br>?? ????
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>ä½œä½œä½œ å¨œå•¦æœ›</strong></span><br><span style="color:#64b5f6;">ì›Œì–´ì–¸ ì´ ì‚¬ëžŒì•„</span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>§@¼T ©f°ÕÂPäM</strong></span></span><br>? ? ?? ? ? ???? ???
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å–Žå“¦å“¦ ä¾ æ²™å†§åª½</strong></span><br><span style="color:#64b5f6;">ì–¸ì œì  ì–˜ê¸¸ êº¼ë‚´ë‚˜</span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>Ø{ Ãì ¨FÄx äý ºN ¨MÅo?®R ??©O®R</strong></span></span><br>? ??? ? ????
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å“¦å§ä½œ èª’å˜° å„å‘¢å¨œ</strong></span><br><span style="color:#64b5f6;">ë§¨ëª¸ìœ¼ë¡œ í—¤ì—„ì¹˜ê¸° ì²˜ì²¨ë²„ë²™</span>
 </p>
 <p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>¦« §è«}¶â ­ô ¼½³é½Þ?</strong></span></span><br>When the wave has come
-</p>
-<p>
-    <style type="text/css"></style><span style="color:hsl(0,100%,75%);font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;font-weight:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;I'm a bubble maker&quot;}" data-sheets-userformat="{&quot;2&quot;:14465,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12}"><strong>When the wave has come</strong></span></span>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å‘½æ¯›å’ªå›‰ Heaå“¦ç—´å˜° ä½œç‹€æ’­é§</strong></span>
 </p>
 <p>&nbsp;</p>
-<p>??? ??? ?</p>
+<p>ì–´ ë˜ ë³´ë„¤ ë‹¤ìŒì—</p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;§@§@§@ ¶Û¶Û¶Û ¨ì&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:8,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>§@§@§@ ¶Û¶Û¶Û ¨ì</strong></span></span><br>??? ???
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å“¦ éƒ½ æ’­å‘¢ æ’»å—¯å’©</strong></span><br>ë‹¤ì‹œ ë§Œë‚  ë•Œê¹Œì§€
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;§@§@§@ ¶Û¶Û¶Û&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:3,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>§@§@§@ ¶Û¶Û¶Û</strong></span></span><br>??? ?? ?? ??? ???
+    <style type="text/css"></style><span style="color:#e57373;"><strong>æ’»äº‹ å­Ÿé›£ å—²å®¶å­—</strong></span><br>ë¶€ë”” í–‰ìš´ì„ ë¹Œì–´
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;¨¤¨¤¨¤ ´c¸Ö ±æ°Ý «×«×«× ÆwÆwÆw&quot;}" data-sheets-userformat="{&quot;2&quot;:31361,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:3}Ÿô{&quot;1&quot;:4,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:6}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:9}Ÿô{&quot;1&quot;:10,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:13}Ÿô{&quot;1&quot;:16,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}"><strong>¨¤¨¤¨¤ ´c¸Ö ±æ°Ý «×«×«× ÆwÆwÆw</strong></span></span><br>??? ? ???
+    <style type="text/css"></style><span style="color:#e57373;"><strong>è³ è·Œ æ…¶å—šå—¯ æ’‡å›‰</strong></span><br>ì§€ê²¹ê²Œ ë³´ìžê³ 
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ø{®@®@ ¨Ì ¨F?¶ý&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}"><strong>Ø{®@®@ ¨Ì ¨F?¶ý</strong></span></span><br>? ???? ???
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å­—è§’å˜… æ’­ç‚¸é«˜</strong></span>
+</p>
+<p>&nbsp;</p>
+<p>ìŠ¬ ê°€ë³¼ê²Œ ë‚˜ ë¨¼ì €</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å˜¶ å®¶æ’­å˜… å¨œ æœ›ä½œ</strong></span><br>ì €ê¸° ë¬¼ë§ˆë£¨ì—
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ºN ¨M¸¨?®R ¼½¨®®R&quot;}" data-sheets-userformat="{&quot;2&quot;:30849,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:1,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:2,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:6,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;Times New Roman&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}Ÿô{&quot;1&quot;:7,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;3&quot;:&quot;²Ó©úÅé&quot;,&quot;4&quot;:12,&quot;5&quot;:1}}"><strong>ºN ¨M¸¨?®R ¼½¨®®R</strong></span></span><br>???? ????
+    <style type="text/css"></style><span style="color:#e57373;"><strong>ä½œå˜° å¦¹å•¦åš•èª’</strong></span><br>ì› ì´ ì‚¬ëžŒ ì°¸ ë­˜ ê·¸ë ‡ê²Œë‚˜ ë†€ëž˜ë‚˜
 </p>
 <p>
-    <style type="text/css"></style><span style="color:#60cbf3;font-family:Arial, Helvetica, sans-serif;font-size:12pt;"><span style="font-style:normal;" data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;­ô¼â·bÅo ¨F°Õ¦r?&quot;}" data-sheets-userformat="{&quot;2&quot;:31361,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:6343667},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:12,&quot;17&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}Ÿô{&quot;1&quot;:4}Ÿô{&quot;1&quot;:5,&quot;2&quot;:{&quot;3&quot;:&quot;Arial&quot;}}"><strong>­ô¼â·bÅo ¨F°Õ¦r?</strong></span></span><br>When the time has come</p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>å–Ž éˆ æ²™ç±ƒ å™† æ‘¸ æ±ºå›‰å˜…å¨œ ð¤““å‘¢å¨œ</strong></span><br>ë” ìž¬ë°ŒëŠ” ê±¸ ë³´ì—¬ì¤„ê²Œ
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>æ‰˜ æ‰¯å’ªå—¯ å“¥ æ’­å–²è±¬å˜…</strong></span><br>When the wave has come
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>When the wave has come</strong></span>
+</p>
+<p>&nbsp;</p>
+<p><span style="color:#64b5f6;">ì €ì €ì  ì…”ì…”ì…” ë˜</span></p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>ä½œä½œä½œ å—¦å—¦å—¦ åˆ°</strong></span><br><span style="color:#64b5f6;">ì €ì €ì  ì…”ì…”ì…”</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>ä½œä½œä½œ å—¦å—¦å—¦</strong></span><br><span style="color:#64b5f6;">ê±°ê±°ê² ì—†ì´ ëª¸ì„ ë”ë”ë˜ ì ¸ì ¸ì ¸</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>è§’è§’è§’ æƒ¡è©© æœ›å• åº¦åº¦åº¦ é‘¿é‘¿é‘¿</strong></span><br><span style="color:#64b5f6;">ì›Œì–´ì–¸ ì´ ì‚¬ëžŒì•„</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å–Žå“¦å“¦ ä¾ æ²™å†§åª½</strong></span><br><span style="color:#64b5f6;">ë­˜ ê·¸ë ‡ê²Œë‚˜ ë³´ì±„ë‚˜</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>æ‘¸ æ±ºè½å˜…å¨œ æ’­è»Šå¨œ</strong></span><br><span style="color:#64b5f6;">ê±°í’ˆì²˜ëŸ¼ ì‚¬ë¼ì§ˆê²Œ</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>å“¥æ½‘æ“å›‰ æ²™å•¦å­—å˜…</strong></span><br><span style="color:#64b5f6;">When the time has come</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>When the time has come</strong></span>
+</p>
