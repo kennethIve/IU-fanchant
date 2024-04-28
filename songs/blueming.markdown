@@ -22,7 +22,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><br>달라지는 내 미묘한 심리를 알까&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>達拿智亂 呢 me冇喊 線蓮了 嗌交</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
 <p>&nbsp;</p>
 <p>아니 바쁘지 않아&nbsp;<span style="color:#64b5f6;">nothing no no</span><br><span style="color:#ba68c8;"><strong>雅練 怕杯智 雅拿</strong></span> <span style="color:#64b5f6;"><strong>nothing no no</strong></span></p>
-<p><br>잠들어 있지 않아&nbsp;i<span style="color:#64b5f6;">nsomnia nia nia</span><br><span style="color:#ba68c8;"><strong>暫嘟囉 熱智 雅拿</strong></span> <span style="color:#64b5f6;"><strong>insomnia nia nia</strong></span></p>
+<p><br>잠들어 있지 않아&nbsp;<span style="color:#64b5f6;">insomnia nia nia</span><br><span style="color:#ba68c8;"><strong>暫嘟囉 熱智 雅拿</strong></span> <span style="color:#64b5f6;"><strong>insomnia nia nia</strong></span></p>
 <p><br>지금 다른 사람과 함께이지 않아<br><span style="color:#ba68c8;"><strong>慈琴 他亂 沙淋嘎 慳嘅意之 牙娜</strong></span></p>
 <p><br><s>응, 나도 너를 생각 중</s><br><s>嗯 那度 羅亂 性加 頌</s><br><span style="color:#64b5f6;">(응, 아이유를 생각 중)</span><br><span style="color:#64b5f6;"><strong>(銀, 啊.兒.U露聖家頌)</strong></span></p>
 <p><br><span style="color:#64b5f6;">(함성)</span><br><span style="color:#64b5f6;"><strong>(歡呼)</strong></span></p>
