@@ -38,7 +38,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>Comma we don't&nbsp;<span style="color:#e57373;">owe owe owe owe</span><br><span style="color:#ffd54f;"><strong>Comma we don't</strong></span><span style="color:#e57373;"><strong>&nbsp;owe owe owe owe</strong></span></p>
 <p>(anything)<br><span style="color:#ffd54f;"><strong>(anything)</strong></span></p>
 <p>&nbsp;</p>
-<p><span style="color:#e57373;">(아. 이. 유. 삐. 삐)</span>&nbsp;(uh oh oh)]</p>
+<p><span style="color:#e57373;">(아. 이. 유. 삐. 삐)</span>&nbsp;(uh oh oh)</p>
 <p><span style="color:#e57373;"><strong>(阿. 依. U. 嗶. 嗶)</strong></span>&nbsp;<span style="color:#ffd54f;"><strong>(uh oh oh)</strong></span></p>
 <p>&nbsp;</p>
 <p>I don't care 당신의 비밀이 뭔지<br><span style="color:#ffd54f;"><strong>I don’t care 彈時誒 撇咪鏈 摸字</strong></span></p>
@@ -92,5 +92,5 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>그 선 넘으면 정색이야 beep&nbsp;<span style="color:#e57373;">(beep beep)</span><br><span style="color:#ffd54f;"><strong>依 喪 𤓓嗯望 藏錫依吔 beep</strong></span> <span style="color:#e57373;"><strong>(beep beep)</strong></span></p>
 <p>Stop it 거리 유지해 cause we don't&nbsp;<span style="color:#e57373;">know know know know</span><br><span style="color:#ffd54f;"><strong>Stop it 哥鏈 雨字Hea cause we don't</strong></span> <span style="color:#e57373;"><strong>know know know know</strong></span></p>
 <p>Comma we don't&nbsp;<span style="color:#e57373;">owe owe owe owe</span><br><span style="color:#ffd54f;"><strong>Comma we don't</strong></span>&nbsp;<span style="color:#e57373;"><strong>owe owe owe owe</strong></span></p>
-<p>(anything) <span style="color:#e57373;">(함성)</span><br><span style="color:#ffd54f;"><strong>(anything) </strong></span><span style="color:#e57373;"><strong>(함성)</strong></span></p>
+<p>(anything) <span style="color:#e57373;">(함성)</span><br><span style="color:#ffd54f;"><strong>(anything) </strong></span><span style="color:#e57373;"><strong>(歡呼)</strong></span></p>
 <p>&nbsp;</p>
