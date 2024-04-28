@@ -31,7 +31,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <br><span style="color:#e57373;"><strong>決幹 呢家 告啦</strong></span><br>무슨 소리 겁이 나기는, 재밌지 뭐
 <br><span style="color:#e57373;"><strong>妹申 梳鏈 哥邊 娜嘰嗯, 車咪字 摸</strong></span></p>
 <p>&nbsp;</p>
-<br><span style="color:#64b5f6;">어어어 푸푸푸 또</span>
+<p><span style="color:#64b5f6;">어어어 푸푸푸 또</span>
 <br><span style="color:#64b5f6;"><strong>哦哦哦 潑潑潑 到</strong></span><br><span style="color:#64b5f6;">허허허 우우우적</span>
 <br><span style="color:#64b5f6;"><strong>呵呵呵 嗚嗚嗚Chock</strong></span><br><span style="color:#64b5f6;">거거거 리더던 시</span>
 <br><span style="color:#64b5f6;"><strong>角角角 呢多當 事</strong></span><br><span style="color:#64b5f6;">저저절 나라면</span>
@@ -49,52 +49,52 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <br><span style="color:#64b5f6;"><strong>托 姐咪嗯 哥 播喲豬嘅</strong></span><br><span style="color:#64b5f6;">When the wave has come</span>
 <br><span style="color:#64b5f6;"><strong>When the wave has come</strong></span></p>
 <p>&nbsp;</p>
-<p>I'm a bubble maker</p>
-<p><span style="color:#e57373;"><strong>I'm a bubble maker</strong></span><br>잔잔한 바다를</p>
-<p><span style="color:#e57373;"><strong>撐撐下 趴大鄰</strong></span><br>지긋 지 지긋 괴롭히는 villain uh</p>
-<p><span style="color:#e57373;"><strong>字決 字 字決 揭路撇嗯 villain uh</strong></span><br>나이를 먹어도 이 버릇 남 못 줘 난</p>
-<p><span style="color:#e57373;"><strong>娜姨能 摸哥都 姨 婆鄰 男 木 左 娜</strong></span></p>
+<p>I'm a bubble maker
+<br><span style="color:#e57373;"><strong>I'm a bubble maker</strong></span><br>잔잔한 바다를
+<br><span style="color:#e57373;"><strong>撐撐下 趴大鄰</strong></span><br>지긋 지 지긋 괴롭히는 villain uh
+<br><span style="color:#e57373;"><strong>字決 字 字決 揭路撇嗯 villain uh</strong></span><br>나이를 먹어도 이 버릇 남 못 줘 난
+<br><span style="color:#e57373;"><strong>娜姨能 摸哥都 姨 婆鄰 男 木 左 娜</strong></span></p>
 <p>&nbsp;</p>
-<p>I'm a bubble maker</p>
-<p><span style="color:#e57373;"><strong>I'm a bubble maker</strong></span><br>이제 이쯤이야</p>
-<p><span style="color:#e57373;"><strong>姨姐 姨摺咪吔</strong></span><br>출렁 추 출렁 멀미도 suck it up</p>
-<p><span style="color:#e57373;"><strong>絕浪 絕 絕浪 望鏈都 suck it up</strong></span><br>물 먹이더라도 이곳을 난 못 떠나</p>
-<p><span style="color:#e57373;"><strong>妹 望嘰托啦都 姨谷撕 娜 木 多啦</strong></span></p>
+<br>I'm a bubble maker
+<br><span style="color:#e57373;"><strong>I'm a bubble maker</strong></span><br>이제 이쯤이야
+<br><span style="color:#e57373;"><strong>姨姐 姨摺咪吔</strong></span><br>출렁 추 출렁 멀미도 suck it up
+<br><span style="color:#e57373;"><strong>絕浪 絕 絕浪 望鏈都 suck it up</strong></span><br>물 먹이더라도 이곳을 난 못 떠나
+<br><span style="color:#e57373;"><strong>妹 望嘰托啦都 姨谷撕 娜 木 多啦</strong></span></p>
 <p>&nbsp;</p>
 <p>제일 높은 파도</p>
-<p><span style="color:#e57373;"><strong>姐姨 陸潑 怕都</strong></span><br>올라타타 라차차우아</p>
-<p><span style="color:#e57373;"><strong>哦啦他他 啦拆拆嗚阿</strong></span><br>너울과 함께 부서질 타이밍</p>
-<p><span style="color:#e57373;"><strong>內嗚瓜 冚嘅 賠梳字 他依銘</strong></span><br>그건 내가 골라</p>
-<p><span style="color:#e57373;"><strong>決幹 呢家 告啦</strong></span><br>무슨 소리 겁이 나기는, 재밌지 뭐</p>
-<p><span style="color:#e57373;"><strong>妹申 梳鏈 哥邊 娜嘰嗯, 車咪字 摸</strong></span></p>
+<br><span style="color:#e57373;"><strong>姐姨 陸潑 怕都</strong></span><br>올라타타 라차차우아
+<br><span style="color:#e57373;"><strong>哦啦他他 啦拆拆嗚阿</strong></span><br>너울과 함께 부서질 타이밍
+<br><span style="color:#e57373;"><strong>內嗚瓜 冚嘅 賠梳字 他依銘</strong></span><br>그건 내가 골라
+<br><span style="color:#e57373;"><strong>決幹 呢家 告啦</strong></span><br>무슨 소리 겁이 나기는, 재밌지 뭐
+<br><span style="color:#e57373;"><strong>妹申 梳鏈 哥邊 娜嘰嗯, 車咪字 摸</strong></span></p>
 <p>&nbsp;</p>
-<p><span style="color:#64b5f6;">어어어 푸푸푸 또</span></p>
-<p><span style="color:#64b5f6;"><strong>哦哦哦 潑潑潑 到</strong></span><br><span style="color:#64b5f6;">허허허 우우우적</span></p>
-<p><span style="color:#64b5f6;"><strong>呵呵呵 嗚嗚嗚Chock</strong></span><br><span style="color:#64b5f6;">거거거 리더던 시</span></p>
-<p><span style="color:#64b5f6;"><strong>角角角 呢多當 事</strong></span><br><span style="color:#64b5f6;">저저절 나라면</span></p>
-<p><span style="color:#64b5f6;"><strong>作作作 娜啦望</strong></span><br><span style="color:#64b5f6;">워어언 이 사람아</span></p>
-<p><span style="color:#64b5f6;"><strong>喎哦哦 依 沙冧媽</strong></span><br><span style="color:#64b5f6;">언제적 얘길 꺼내나</span></p>
-<p><span style="color:#64b5f6;"><strong>哦姐作 誒嘰 各呢娜</strong></span><br><span style="color:#64b5f6;">맨몸으로 헤엄치기 처첨버벙</span></p>
-<p><span style="color:#64b5f6;"><strong>命毛咪囉 Hea哦痴嘰 作狀播駁</strong></span></p>
+<p><span style="color:#64b5f6;">어어어 푸푸푸 또</span>
+<br><span style="color:#64b5f6;"><strong>哦哦哦 潑潑潑 到</strong></span><br><span style="color:#64b5f6;">허허허 우우우적</span>
+<br><span style="color:#64b5f6;"><strong>呵呵呵 嗚嗚嗚Chock</strong></span><br><span style="color:#64b5f6;">거거거 리더던 시</span>
+<br><span style="color:#64b5f6;"><strong>角角角 呢多當 事</strong></span><br><span style="color:#64b5f6;">저저절 나라면</span>
+<br><span style="color:#64b5f6;"><strong>作作作 娜啦望</strong></span><br><span style="color:#64b5f6;">워어언 이 사람아</span>
+<br><span style="color:#64b5f6;"><strong>喎哦哦 依 沙冧媽</strong></span><br><span style="color:#64b5f6;">언제적 얘길 꺼내나</span>
+<br><span style="color:#64b5f6;"><strong>哦姐作 誒嘰 各呢娜</strong></span><br><span style="color:#64b5f6;">맨몸으로 헤엄치기 처첨버벙</span>
+<br><span style="color:#64b5f6;"><strong>命毛咪囉 Hea哦痴嘰 作狀播駁</strong></span></p>
 <p>&nbsp;</p>
-<p>어 또 보네 다음에</p>
-<p><span style="color:#e57373;"><strong>哦 都 播呢 撻嗯咩</strong></span><br>다시 만날 때까지</p>
-<p><span style="color:#e57373;"><strong>撻事 孟難 嗲家字</strong></span><br>부디 행운을 빌어</p>
-<p><span style="color:#e57373;"><strong>賠跌 慶嗚嗯 撇囉</strong></span><br>지겹게 보자고</p>
-<p><span style="color:#e57373;"><strong>字角嘅 播炸高</strong></span></p>
+<p>어 또 보네 다음에
+<br><span style="color:#e57373;"><strong>哦 都 播呢 撻嗯咩</strong></span><br>다시 만날 때까지
+<br><span style="color:#e57373;"><strong>撻事 孟難 嗲家字</strong></span><br>부디 행운을 빌어
+<br><span style="color:#e57373;"><strong>賠跌 慶嗚嗯 撇囉</strong></span><br>지겹게 보자고
+<br><span style="color:#e57373;"><strong>字角嘅 播炸高</strong></span></p>
 <p>&nbsp;</p>
-<p>슬 가볼게 나 먼저</p>
-<p><span style="color:#e57373;"><strong>嘶 家播嘅 娜 望作</strong></span><br>저기 물마루에</p>
-<p><span style="color:#e57373;"><strong>作嘰 妹啦嚕誒</strong></span><br>원 이 사람 참 뭘 그렇게나 놀래나</p>
-<p><span style="color:#e57373;"><strong>喎 鏈 沙籃 噆 摸 決囉嘅娜 𤓓呢娜</strong></span><br>더 재밌는 걸 보여줄게</p>
-<p><span style="color:#e57373;"><strong>托 扯咪嗯 哥 播喲豬嘅</strong></span><br>When the wave has come</p>
-<p><span style="color:#e57373;"><strong>When the wave has come</strong></span></p>
+<p>슬 가볼게 나 먼저
+<br><span style="color:#e57373;"><strong>嘶 家播嘅 娜 望作</strong></span><br>저기 물마루에
+<br><span style="color:#e57373;"><strong>作嘰 妹啦嚕誒</strong></span><br>원 이 사람 참 뭘 그렇게나 놀래나
+<br><span style="color:#e57373;"><strong>喎 鏈 沙籃 噆 摸 決囉嘅娜 𤓓呢娜</strong></span><br>더 재밌는 걸 보여줄게
+<br><span style="color:#e57373;"><strong>托 扯咪嗯 哥 播喲豬嘅</strong></span><br>When the wave has come
+<br><span style="color:#e57373;"><strong>When the wave has come</strong></span></p>
 <p>&nbsp;</p>
-<p><span style="color:#64b5f6;">저저적 셔셔셔 또</span></p>
-<p><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦 到</strong></span><br><span style="color:#64b5f6;">저저적 셔셔셔</span></p>
-<p><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦</strong></span><br><span style="color:#64b5f6;">거거겁 없이 몸을 더더던 져져져</span></p>
-<p><span style="color:#64b5f6;"><strong>角角角 惡詩 望問 度度度 鑿鑿鑿</strong></span><br><span style="color:#64b5f6;">워어언 이 사람아</span></p>
-<p><span style="color:#64b5f6;"><strong>喎哦哦 依 沙冧媽</strong></span><br><span style="color:#64b5f6;">뭘 그렇게나 보채나</span></p>
-<p><span style="color:#64b5f6;"><strong>摸 決落嘅娜 播車娜</strong></span><br><span style="color:#64b5f6;">거품처럼 사라질게</span></p>
-<p><span style="color:#64b5f6;"><strong>哥潑搓囉 沙啦字嘅</strong></span><br><span style="color:#64b5f6;">When the time has come</span></p>
-<p><span style="color:#64b5f6;"><strong>When the time has come</strong></span></p>
+<p><span style="color:#64b5f6;">저저적 셔셔셔 또</span>
+<br><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦 到</strong></span><br><span style="color:#64b5f6;">저저적 셔셔셔</span>
+<br><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦</strong></span><br><span style="color:#64b5f6;">거거겁 없이 몸을 더더던 져져져</span>
+<br><span style="color:#64b5f6;"><strong>角角角 惡詩 望問 度度度 鑿鑿鑿</strong></span><br><span style="color:#64b5f6;">워어언 이 사람아</span>
+<br><span style="color:#64b5f6;"><strong>喎哦哦 依 沙冧媽</strong></span><br><span style="color:#64b5f6;">뭘 그렇게나 보채나</span>
+<br><span style="color:#64b5f6;"><strong>摸 決落嘅娜 播車娜</strong></span><br><span style="color:#64b5f6;">거품처럼 사라질게</span>
+<br><span style="color:#64b5f6;"><strong>哥潑搓囉 沙啦字嘅</strong></span><br><span style="color:#64b5f6;">When the time has come</span>
+<br><span style="color:#64b5f6;"><strong>When the time has come</strong></span></p>
