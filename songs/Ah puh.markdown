@@ -55,13 +55,13 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <br><span style="color:#e57373;"><strong>字決 字 字決 揭路撇嗯 villain uh</strong></span><br>나이를 먹어도 이 버릇 남 못 줘 난
 <br><span style="color:#e57373;"><strong>娜姨能 摸哥都 姨 婆鄰 男 木 左 娜</strong></span></p>
 <p>&nbsp;</p>
-<br>I'm a bubble maker
+<p>I'm a bubble maker
 <br><span style="color:#e57373;"><strong>I'm a bubble maker</strong></span><br>이제 이쯤이야
 <br><span style="color:#e57373;"><strong>姨姐 姨摺咪吔</strong></span><br>출렁 추 출렁 멀미도 suck it up
 <br><span style="color:#e57373;"><strong>絕浪 絕 絕浪 望鏈都 suck it up</strong></span><br>물 먹이더라도 이곳을 난 못 떠나
 <br><span style="color:#e57373;"><strong>妹 望嘰托啦都 姨谷撕 娜 木 多啦</strong></span></p>
 <p>&nbsp;</p>
-<p>제일 높은 파도</p>
+<p>제일 높은 파도
 <br><span style="color:#e57373;"><strong>姐姨 陸潑 怕都</strong></span><br>올라타타 라차차우아
 <br><span style="color:#e57373;"><strong>哦啦他他 啦拆拆嗚阿</strong></span><br>너울과 함께 부서질 타이밍
 <br><span style="color:#e57373;"><strong>內嗚瓜 冚嘅 賠梳字 他依銘</strong></span><br>그건 내가 골라
