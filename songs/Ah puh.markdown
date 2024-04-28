@@ -14,10 +14,10 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色：應援</strong></span></p>
 
 <p>I'm such a good surfer
-<br><span style="color:#e57373;"><strong>I'm such a good surfer</strong></span><br>가라앉지 않기
-<br><span style="color:#e57373;"><strong>卡啦阿字 奀嘰</strong></span><br>비틀 비 비틀 거리다가 풍덩 uh
-<br><span style="color:#e57373;"><strong>撇脫 撇 撇脫 哥連打家 賠當 uh</strong></span><br>빠지더라도 구명복 따윈 졸업<
-<br><span style="color:#e57373;"><strong>怕字托啦都 估望僕 打Win 搓囉</strong></span></p>
+<br><span style="color:#e57373;"><strong>I'm such a good surfer</strong></span></p>
+<br>가라앉지 않기<br><span style="color:#e57373;"><strong>卡啦阿字 奀嘰</strong></span></p>
+<br>비틀 비 비틀 거리다가 풍덩 uh<br><span style="color:#e57373;"><strong>撇脫 撇 撇脫 哥連打家 賠當 uh</strong></span></p>
+<br>빠지더라도 구명복 따윈 졸업<br><span style="color:#e57373;"><strong>怕字托啦都 估望僕 打Win 搓囉</strong></span></p>
 <p>&nbsp;</p>
 <p>I'm such a good surfer
 <br><span style="color:#e57373;"><strong>I'm such a good surfer</strong></span><br>휩쓸리지 않기
