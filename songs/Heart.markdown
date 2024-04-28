@@ -17,8 +17,8 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#e57373;">축 머금고 있다면, 그건 너</span><br><span style="color:#e57373;"><strong>咄 麼今哥 以打望, 決降 羅</strong></span></p>
 <p><span style="color:#e57373;">둥 울림이 생긴다면, 그건 너</span><br><span style="color:#e57373;"><strong>TWO 烏列咪 聲見打望, 決降 羅</strong></span></p>
 <p>&nbsp;</p>
-<p>그대를 보며, 나는 더운 숨을 쉬어요<br><span style="color:#64b5f6;"><strong>決踢鄰 破望, 那能 多換 縮沒 恕喎喲</strong></span><br>아픈 기분이 드는 건 그 때문이겠죠</p>
-<p><span style="color:#64b5f6;"><strong>阿噴 結盤列 等嗯 降 決 爹門列嘅錯</strong></span><br>&nbsp;</p>
+<p>그대를 보며, 나는 더운 숨을 쉬어요<br><span style="color:#64b5f6;"><strong>決踢鄰 破望, 那能 多換 縮沒 恕喎喲</strong></span></p>
+<p>아픈 기분이 드는 건 그 때문이겠죠<br><span style="color:#64b5f6;"><strong>阿噴 結盤列 等嗯 降 決 爹門列嘅錯</strong></span><br>&nbsp;</p>
 <p><span style="color:#e57373;">나를 알아주지 않으셔도 돼요</span><br><span style="color:#e57373;"><strong>那鄰 阿啦住次 晏能傻多 踢喲</strong></span></p>
 <p><span style="color:#e57373;">찾아오지 않으셔도</span><br><span style="color:#e57373;"><strong>拆炸哦次 啱能傻多</strong></span></p>
 <p><span style="color:#e57373;">다만 꺼지지 않는 작은 불빛이</span><br><span style="color:#e57373;"><strong>打慢 角至至 晏能 拆琴 賠撇次</strong></span></p>
