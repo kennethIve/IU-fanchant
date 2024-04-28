@@ -10,7 +10,8 @@ youtube_url: https://youtu.be/nM0xDI5R50E?feature=shared
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/nM0xDI5R50E?si=HCrilodxqm_Zj0zP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-
+<p style="display: flex; justify-content: center;"><span style="color:#ffd54f;"><strong>黃色:空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>橙色:應援</strong></span></p>
 
 <p>Hi there 인사해 호들갑 없이 <span style="color:#ffd54f;"><strong>Hi there 現沙Hea 呵脫𥄫 惡時</strong></span><br>시작해요 서론 없이<span style="color:#ffd54f;"><strong> 事扎Hea喲 梳囉 惡時</strong></span></p>
 <p>&nbsp;</p>
