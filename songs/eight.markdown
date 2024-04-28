@@ -5,9 +5,9 @@ title:  에잇(eight)
 date:   2024-04-13 22:05:26 +0800
 categories: Fanchant
 # youtube url that redirect to the song
-youtube_url: https://youtu.be/Cxzzg7L3Xgc?feature=shared&t=50
+youtube_url: https://youtu.be/Cxzzg7L3Xgc?feature=shared&t=88
 # youtube page click share -> click embed -> copy it in here, leave it blank if dont 
-youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/Cxzzg7L3Xgc?si=0MEbPtF84ArLDoF6&amp;start=50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/Cxzzg7L3Xgc?si=0MEbPtF84ArLDoF6&amp;start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 <p style="display: flex; justify-content: center;"><span style="color:#ffb74d;;"><strong>橙色：空耳</strong></span></p>
