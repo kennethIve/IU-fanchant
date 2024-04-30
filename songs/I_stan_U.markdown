@@ -68,8 +68,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>놀아 어린아이처럼<br><span style="color:#64b5f6;"><strong>囉拿 哦年拿姨初朗</strong></span></p>
 <p>다 숨죽인 무대 한가운데에서<br><span style="color:#64b5f6;"><strong>譚 孫住見 霉爹 慳 嫁煥爹夜傻</strong></span></p>
 <p>그저 넌 너답게 웃어줘, 날아줘<br><span style="color:#64b5f6;"><strong>決坐 耐 囉搭嘅 胡傻座, 拿啦左</strong></span></p>
-<p><span style="color:#ffb74d;">(함성)</span></p>
-<p><span style="color:#ffb74d;"><strong>(歡呼)</strong></span></p>
+<p><span style="color:#ffb74d;">(함성)</span><br><span style="color:#ffb74d;"><strong>(歡呼)</strong></span></p>
 <p>&nbsp;</p>
 <p>넌 너의 나를 믿어<br><span style="color:#64b5f6;"><strong>耐 囉嘢 啦鄰 咪哆</strong></span></p>
 <p>You're stunning so stunning<br><span style="color:#64b5f6;"><strong>You're stunning, so stunning</strong></span></p>
