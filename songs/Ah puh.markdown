@@ -10,77 +10,212 @@ youtube_url: https://youtu.be/7n9D8ZeOQv0?feature=shared
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/7n9D8ZeOQv0?si=3-pN7yWHb6T8m_SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p style="display: flex; justify-content: center;"><span style="color:#ba68c8;"><strong>紫色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：空耳</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色：應援</strong></span></p>
 
-<p>00:05</p>
-<p><span style="color:#64b5f6;">(지.은.이.아.이.유.의.블.루.밍)</span><br><span style="color:#64b5f6;">(<strong>知.銀.黏. 啊.兒. U. 夜 BU LU MING)</strong></span></p>
+<p>I'm such a good surfer</p>
+<p><span style="color:#e57373;"><strong>I'm such a good surfer</strong></span><br>가라앉지 않기</p>
+<p><span style="color:#e57373;"><strong>卡啦阿字 奀嘰</strong></span><br>비틀 비 비틀 거리다가 풍덩 uh</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>撇脫 撇 撇脫 哥連打家 賠當 uh</strong></span><br>빠지더라도 구명복 따윈 졸업
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>怕字托啦都 估望僕 打Win 搓囉&nbsp;</strong></span>
+</p>
 <p>&nbsp;</p>
-<p>'뭐해?'라는 두 글자에<br><span style="color:#ba68c8;"><strong>摩hea 喇暖 對 渠炸yeah</strong></span></p>
-<p><br>네가 보고 싶어' 나의 속마음을 담아&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>黎嘎 破個涉破 娜耶 屬嘛陰 氹嗎</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
-<p><br>이모티콘 하나하나 속에<br><span style="color:#ba68c8;"><strong>移摩庭幹 下拿霞那 索嘅</strong></span></p>
-<p><br>달라지는 내 미묘한 심리를 알까&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>達拿智亂 呢 me冇喊 線蓮了 嗌交</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
+<p>I'm such a good surfer</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>I'm such a good surfer</strong></span><br>휩쓸리지 않기
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>Hip事鏈字 奀嘰</strong></span><br>울렁 우 울렁 거리다가 throw up
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>嗚囉 嗚 嗚囉 哥鏈打家 throw up</strong></span><br>게워내더라도 지는 건 난 못 참아
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>嘅喎呢多啦都 字嗯 乾 難 木 揸媽</strong></span>
+</p>
+<p>제일 높은 파도</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>姐姨 陸潑 怕都</strong></span><br>올라타타 라차차우아
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>哦啦他他 啦拆拆嗚阿</strong></span><br>해일과 함께 사라질 타이밍
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>Hea姨瓜 冚嘅 沙啦字 他依銘</strong></span><br>그건 내가 골라
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>決幹 呢家 告啦</strong></span><br>무슨 소리 겁이 나기는, 재밌지 뭐
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>妹申 梳鏈 哥邊 娜嘰嗯, 車咪字 摸</strong></span>
+</p>
 <p>&nbsp;</p>
-<p>아니 바쁘지 않아&nbsp;<span style="color:#64b5f6;">nothing no no</span><br><span style="color:#ba68c8;"><strong>雅練 怕杯智 雅拿</strong></span> <span style="color:#64b5f6;"><strong>nothing no no</strong></span></p>
-<p><br>잠들어 있지 않아&nbsp;i<span style="color:#64b5f6;">nsomnia nia nia</span><br><span style="color:#ba68c8;"><strong>暫嘟囉 熱智 雅拿</strong></span> <span style="color:#64b5f6;"><strong>insomnia nia nia</strong></span></p>
-<p><br>지금 다른 사람과 함께이지 않아<br><span style="color:#ba68c8;"><strong>慈琴 他亂 沙淋嘎 慳嘅意之 牙娜</strong></span></p>
-<p><br><s>응, 나도 너를 생각 중</s><br><s>嗯 那度 羅亂 性加 頌</s><br><span style="color:#64b5f6;">(응, 아이유를 생각 중)</span><br><span style="color:#64b5f6;"><strong>(銀, 啊.兒.U露聖家頌)</strong></span></p>
-<p><br><span style="color:#64b5f6;">(함성)</span><br><span style="color:#64b5f6;"><strong>(歡呼)</strong></span></p>
+<p><span style="color:#64b5f6;">어어어 푸푸푸 또</span></p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>哦哦哦 潑潑潑 到</strong></span><br><span style="color:#64b5f6;">허허허 우우우적</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>呵呵呵 嗚嗚嗚 Chock</strong></span><br><span style="color:#64b5f6;">거거거 리더던 시</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>角角角 呢多當 事</strong></span><br><span style="color:#64b5f6;">저저절 나라면</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>作作作 娜啦望</strong></span><br><span style="color:#64b5f6;">워어언 이 사람아</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>喎哦哦 依 沙冧媽</strong></span><br><span style="color:#64b5f6;">언제적 얘길 꺼내나</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>哦姐作 誒嘰 各呢娜</strong></span><br><span style="color:#64b5f6;">보란듯이 헤엄치기 처첨버벙</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>婆爛特事 Hea哦痴見 錯錯播駁</strong></span>
+</p>
 <p>&nbsp;</p>
+<p><span style="color:#64b5f6;">저저적 셔셔셔 또</span></p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦 到</strong></span><br><span style="color:#64b5f6;">저저적 셔셔셔</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦</strong></span><br><span style="color:#64b5f6;">거거겁 없이 몸을 더더던 져져져</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>角角角 惡詩 望問 度度度 鑿鑿鑿</strong></span><br><span style="color:#64b5f6;">워어언 이 사람아</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>喎哦哦 依 沙冧媽</strong></span><br><span style="color:#64b5f6;">뭘 그렇게나 놀래나</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>摸 決落嘅娜 囉呢啦</strong></span><br><span style="color:#64b5f6;">더 재밌는 걸 보여줄게</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>托 姐咪嗯 哥 播喲豬嘅</strong></span><br><span style="color:#64b5f6;">When the wave has come</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>When the wave has come</strong></span>
+</p>
 <p>&nbsp;</p>
-<p>우리의 네모 칸은&nbsp;<span style="color:#64b5f6;">bloom</span><br><span style="color:#ba68c8;"><strong>互咧夜 LEMON 卡銀</strong></span> <span style="color:#64b5f6;"><strong>bloom</strong></span></p>
-<p><br><span style="color:#64b5f6;">엄지손가락으로 장미꽃을 피워</span><br><span style="color:#64b5f6;"><strong>暗智喪架喇毆路 撐面哥柱 P喎</strong></span></p>
-<p><br>향기에 취할 것 같아&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>行技夜 似係 覺 家塔</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
-<p><br>오직 둘만의 비밀의 정원<br><span style="color:#ba68c8;"><strong>哦節 對掹呢 篇秒厲 從won</strong></span></p>
+<p>I'm a bubble maker</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>I'm a bubble maker</strong></span><br>잔잔한 바다를
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>&nbsp;</strong></span>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>撐撐下 趴大鄰</strong></span><br>지긋 지 지긋 괴롭히는 villain uh
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>字決 字 字決 揭路撇嗯 villain uh</strong></span><br>나이를 먹어도 이 버릇 남 못 줘 난
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>娜姨能 摸哥都 姨 婆鄰 男 木 左 娜</strong></span>
+</p>
 <p>&nbsp;</p>
+<p>I'm a bubble maker</p>
+<p><span style="color:#e57373;"><strong>I'm a bubble maker</strong></span><br>이제 이쯤이야</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>姨姐 姨摺咪吔</strong></span><br>출렁 추 출렁 멀미도 suck it up
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>絕浪 絕 絕浪 望鏈都 suck it up</strong></span><br>물 먹이더라도 이곳을 난 못 떠나
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>妹 望嘰托啦都 姨谷撕 娜 木 多啦</strong></span>
+</p>
 <p>&nbsp;</p>
-<p><span style="color:#ba68c8;"><strong>I Feel</strong></span>&nbsp;<span style="color:#64b5f6;"><strong>bloom</strong></span><br><span style="color:#ba68c8;"><strong>I Feel</strong></span>&nbsp;<span style="color:#64b5f6;"><strong>bloom</strong></span><br><span style="color:#ba68c8;"><strong>I Feel</strong></span>&nbsp;<span style="color:#64b5f6;"><strong>bloom</strong></span></p>
-<p><br>너에게 한 송이를 더 보내<br><span style="color:#ba68c8;"><strong>羅夜嘅 撼 頌姨裡 多 播靚</strong></span></p>
+<p>제일 높은 파도</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>姐姨 陸潑 怕都</strong></span><br>올라타타 라차차우아
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>哦啦他他 啦拆拆嗚阿</strong></span><br>너울과 함께 부서질 타이밍
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>內嗚瓜 冚嘅 賠梳字 他依銘</strong></span><br>그건 내가 골라
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>決幹 呢家 告啦</strong></span><br>무슨 소리 겁이 나기는, 재밌지 뭐
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>妹申 梳鏈 哥邊 娜嘰嗯, 車咪字 摸</strong></span>
+</p>
 <p>&nbsp;</p>
+<p><span style="color:#64b5f6;">어어어 푸푸푸 또</span></p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>哦哦哦 潑潑潑 到</strong></span><br><span style="color:#64b5f6;">허허허 우우우적</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>呵呵呵 嗚嗚嗚 Chock</strong></span><br><span style="color:#64b5f6;">거거거 리더던 시</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>角角角 呢多當 事</strong></span><br><span style="color:#64b5f6;">저저절 나라면</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>作作作 娜啦望</strong></span><br><span style="color:#64b5f6;">워어언 이 사람아</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>喎哦哦 依 沙冧媽</strong></span><br><span style="color:#64b5f6;">언제적 얘길 꺼내나</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>哦姐作 誒嘰 各呢娜</strong></span><br><span style="color:#64b5f6;">맨몸으로 헤엄치기 처첨버벙</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>命毛咪囉 Hea哦痴嘰 作狀播駁</strong></span>
+</p>
 <p>&nbsp;</p>
-<p><span style="color:#64b5f6;">(지.은.이.아.이.유.의.러.브.포.엠)</span><br><span style="color:#64b5f6;"><strong>(知.銀.黏.啊.兒.U.夜.LOVE.舖.M)</strong></span></p>
+<p>어 또 보네 다음에</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>哦 都 播呢 撻嗯咩</strong></span><br>다시 만날 때까지
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>撻事 孟難 嗲家字</strong></span><br>부디 행운을 빌어
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>賠跌 慶嗚嗯 撇囉</strong></span><br>지겹게 보자고
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>字角嘅 播炸高</strong></span>
+</p>
 <p>&nbsp;</p>
+<p>슬 가볼게 나 먼저</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>嘶 家播嘅 娜 望作</strong></span><br>저기 물마루에
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>作嘰 妹啦嚕誒</strong></span><br>원 이 사람 참 뭘 그렇게나 놀래나
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>喎 鏈 沙籃 噆 摸 決囉嘅娜 𤓓呢娜</strong></span><br>더 재밌는 걸 보여줄게
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>托 扯咪嗯 哥 播喲豬嘅</strong></span><br>When the wave has come
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#e57373;"><strong>When the wave has come</strong></span>
+</p>
 <p>&nbsp;</p>
-<p>밤샘 작업으로 업데이트<br><span style="color:#ba68c8;"><strong>班蛇 窄割壺魯</strong></span> <span style="color:#ba68c8;"><strong>update</strong></span></p>
-<p><br>흥미로운 이 작품의&nbsp;<span style="color:#64b5f6;">지은이</span><br><span style="color:#ba68c8;"><strong>哼棉路換 二 宅判呢 </strong></span><span style="color:#64b5f6;"><strong>智銀練</strong></span></p>
-<p><br>that's me&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>thats me</strong></span><span style="color:#64b5f6;"><strong> 烏</strong></span></p>
-<p><br>어쩜 이 관계의 클라이맥스<br><span style="color:#ba68c8;"><strong>噢左 兒 慣嘅爺</strong></span> <span style="color:#ba68c8;"><strong>climax</strong></span></p>
-<p><br>2막으로 넘어가기엔&nbsp;<span style="color:#64b5f6;">지금이</span><br><span style="color:#ba68c8;"><strong>兒抹護魯 浪摩家件夜</strong></span> <span style="color:#64b5f6;"><strong>刺禁棉</strong></span></p>
-<p><br>good Timing&nbsp;우<br><span style="color:#ba68c8;"><strong>good timing</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>같은 맘인 걸 알아&nbsp;<span style="color:#64b5f6;">realize la lize</span><br><span style="color:#ba68c8;"><strong>隔塵 媽咪 個 阿娜</strong></span> <span style="color:#64b5f6;"><strong>realize la lize</strong></span></p>
-<p><br>말을 고르지 말아 <span style="color:#64b5f6;">just&nbsp;reply la la ly</span><br><span style="color:#ba68c8;"><strong>嘛露 歌魯智啦嘛喇</strong></span> <span style="color:#64b5f6;"><strong>just reply la la ly</strong></span></p>
-<p><br>조금 장난스러운 나의 은유에<br><span style="color:#ba68c8;"><strong>挫禁 餐爛孫羅湖 啦夜 因餘夜</strong></span></p>
-<p><br>네 해석이 궁금해<br><span style="color:#ba68c8;"><strong>年 hea索件 冠官hea</strong></span></p>
-<p><br><span style="color:#64b5f6;">(러.브.포.엠)</span><br><span style="color:#64b5f6;"><strong>(LOVE.扶.鋪.M)</strong></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>우리의 색은 gray and<span style="color:#64b5f6;">&nbsp;blue</span><br><span style="color:#ba68c8;"><strong>胡亂夜 錫銀 gray and</strong></span> <span style="color:#64b5f6;"><strong>blue</strong></span></p>
-<p><br><span style="color:#64b5f6;">엄지손가락으로 말풍선을 띄워</span><br><span style="color:#64b5f6;"><strong>暗智喪嘎喇毆路 米碰喪遇 雕喎</strong></span></p>
-<p><br>금세 터질 것 같아&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>禁世 逃趙 個 家塔</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
-<p><br>호흡이 가빠져 어지러워<br><span style="color:#ba68c8;"><strong>河合必 架八錯 哦字羅窩</strong></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><span style="color:#ba68c8;"><strong>I Feel</strong></span>&nbsp;<span style="color:#64b5f6;"><strong>blue</strong></span><br><span style="color:#ba68c8;"><strong>I Feel</strong></span>&nbsp;<span style="color:#64b5f6;"><strong>blue</strong></span><br><span style="color:#ba68c8;"><strong>I Feel&nbsp;</strong></span><span style="color:#64b5f6;"><strong>blue</strong></span></p>
-<p><br>너에게 가득히 채워<br><span style="color:#ba68c8;"><strong>羅夜嘅 嫁毒姨 車窩</strong></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><span style="color:#64b5f6;">띄어쓰기없이보낼게사랑인것같애</span><br><span style="color:#64b5f6;"><strong>dior善見餓市 破呢奇 撒冷現覺嘎聽</strong></span></p>
-<p><br>백만송이장미꽃을, 나랑피워볼래?<br><span style="color:#ba68c8;"><strong>劈萬送二撐二割柱 那爛 必窩婆嶺</strong></span></p>
-<p><br><span style="color:#64b5f6;">꽃잎의</span>&nbsp;색은 우리 마음 가는 대로 칠해<br><span style="color:#64b5f6;"><strong>割捏披</strong></span> <span style="color:#ba68c8;"><strong>熄根 烏你 馬韌 嫁韌 大撈 次黎</strong></span></p>
-<p><br>시들 때도 예쁘게<br><span style="color:#ba68c8;"><strong>時對 爹度 夜搬嘅</strong></span></p>
-<p><br><span style="color:#64b5f6;">(예.쁘.다)</span><br><span style="color:#64b5f6;"><strong>(YEAH.杯.他)</strong></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><span style="color:#64b5f6;">우리의 네모 칸은 bloom</span><br><span style="color:#64b5f6;"><strong>互咧夜 LEMON 卡銀 bloom</strong></span></p>
-<p><br><span style="color:#64b5f6;">엄지손가락으로 장미꽃을 피워</span><br><span style="color:#64b5f6;"><strong>暗智喪嘎喇毆路 撐面哥柱 P喎</strong></span></p>
-<p><br>향기에 취할 것 같아&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>行技夜 似係 覺 家塔</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
-<p><br>오직 둘만의 비밀의 정원<br><span style="color:#ba68c8;"><strong>哦節 對掹呢 篇秒厲 從won</strong></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><span style="color:#ba68c8;"><strong>I Feel</strong></span>&nbsp;<span style="color:#64b5f6;"><strong>bloom</strong></span><br><span style="color:#ba68c8;"><strong>I Feel</strong></span><span style="color:#64b5f6;">&nbsp;<strong>bloom</strong></span><br><span style="color:#ba68c8;"><strong>I Feel</strong></span>&nbsp;<span style="color:#64b5f6;"><strong>bloom</strong></span></p>
-<p><br>너에게 한 송이를 더 보내<br><span style="color:#ba68c8;"><strong>羅夜嘅 撼 頌姨裡 多 播靚</strong></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><span style="color:#64b5f6;">(함성)</span><br><span style="color:#64b5f6;"><strong>(歡呼)</strong></span></p>
+<p><span style="color:#64b5f6;">저저적 셔셔셔 또</span></p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦 到</strong></span><br><span style="color:#64b5f6;">저저적 셔셔셔</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦</strong></span><br><span style="color:#64b5f6;">거거겁 없이 몸을 더더던 져져져</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>角角角 惡詩 望問 度度度 鑿鑿鑿</strong></span><br><span style="color:#64b5f6;">워어언 이 사람아</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>喎哦哦 依 沙冧媽</strong></span><br><span style="color:#64b5f6;">뭘 그렇게나 보채나</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>摸 決落嘅娜 播車娜</strong></span><br><span style="color:#64b5f6;">거품처럼 사라질게</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>哥潑搓囉 沙啦字嘅</strong></span><br><span style="color:#64b5f6;">When the time has come</span>
+</p>
+<p>
+    <style type="text/css"></style><span style="color:#64b5f6;"><strong>When the time has come</strong></span>
+</p>
