@@ -10,6 +10,8 @@ youtube_url: https://youtu.be/6ElB5I2r-U8?feature=shared&t=13
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/6ElB5I2r-U8?si=cd3Bp4cBs3T7CJ4F&amp;start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+<p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#ffb74d;"><strong>橙色：應援</strong></span></p>
 
 <p>사소한 틈새의 one milli<br><span style="color:#64b5f6;"><strong>沙掃坑 氹卸野 one milli</strong></span></p>
 <p>그게 널 다르게 만들지<br><span style="color:#64b5f6;"><strong>決記 囉 大路嘅 慢脫致</strong></span></p>
