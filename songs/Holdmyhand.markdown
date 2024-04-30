@@ -10,6 +10,8 @@ youtube_url: https://youtu.be/3iM_06QeZi8?feature=shared
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/3iM_06QeZi8?si=ZNvJKr59Wc5JwAX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色：應援</strong></span></p>
 
 <p>느낌이 오잖아 떨리고 있잖아<br><span style="color:#e57373;"><strong>甩兼咪 屙喳啦 代李姑 姨喳啦</strong></span></p>
 <p>언제까지 눈치만 볼 거니<br><span style="color:#e57373;"><strong>安借加紙 燶痴萬 配 個鏈</strong></span></p>
