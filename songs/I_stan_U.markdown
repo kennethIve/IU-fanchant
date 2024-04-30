@@ -16,7 +16,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>사소한 틈새의 one milli<br><span style="color:#64b5f6;"><strong>沙掃坑 氹卸野 one milli</strong></span></p>
 <p>그게 널 다르게 만들지<br><span style="color:#64b5f6;"><strong>決記 囉 大路嘅 慢脫致</strong></span></p>
 <p><span style="color:#ffb74d;">잔뜩 찡그려 웃는 버릇이나</span><br><span style="color:#ffb74d;"><strong>爭讀 煎決蘿 胡聯 博勞善那</strong></span><br>
-    <style type="text/css"></style>
+
 </p>
 <p><span style="color:#ffb74d;">자주 고르는 단어 하나하나</span><br><span style="color:#ffb74d;"><strong>渣住 戈鄰門 丹哦 哈拿慳啊</strong></span></p>
 <p>&nbsp;</p>
