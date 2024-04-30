@@ -79,6 +79,6 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>Oh 좋아 그건 또 그대로<br><span style="color:#64b5f6;"><strong>oh 嘈牙 決趕 墮 決爹囉</strong></span></p>
 <p><span style="color:#ffb74d;"><strong>I'm stanning, just stanning</strong></span></p>
 <p><span style="color:#64b5f6;"><strong>You, I trust</strong></span> <s>my you</s><br>&nbsp; &nbsp; &nbsp; &nbsp; 03:00 &nbsp;&nbsp;<span style="color:#ffb74d;"><strong>I &nbsp; U</strong></span></p>
-<p><br>가, 너만의 승리를 이뤄<br><span style="color:#64b5f6;"><strong>駕，羅盲誒 先連鄰 姨囉</strong></span></p>
+<p>가, 너만의 승리를 이뤄<br><span style="color:#64b5f6;"><strong>駕，羅盲誒 先連鄰 姨囉</strong></span></p>
 <p><span style="color:#ffb74d;"><strong>I'm stanning, just stanning</strong></span> <s>you</s></p>
 <p><span style="color:#ffb74d;">아!이!유! (함성)</span><br><span style="color:#ffb74d;"><strong>阿!依!U! (歡呼)</strong></span></p>
