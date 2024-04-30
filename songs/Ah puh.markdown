@@ -38,8 +38,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>&nbsp;</p>
 <p><span style="color:#64b5f6;">저저적 셔셔셔 또</span><br><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦 到</strong></span></p>
 <p><span style="color:#64b5f6;">저저적 셔셔셔</span><br><span style="color:#64b5f6;"><strong>作作作 嗦嗦嗦</strong></span></p>
-<p><span style="color:#64b5f6;">거거겁 없이 몸을 더더던 져져져</span></p>
-<p><span style="color:#64b5f6;"><strong>角角角 惡詩 望問 度度度 鑿鑿鑿</strong></span></p>
+<p><span style="color:#64b5f6;">거거겁 없이 몸을 더더던 져져져</span><br><span style="color:#64b5f6;"><strong>角角角 惡詩 望問 度度度 鑿鑿鑿</strong></span></p>
 <p><span style="color:#64b5f6;">워어언 이 사람아</span><br><span style="color:#64b5f6;"><strong>喎哦哦 依 沙冧媽</strong></span></p>
 <p><span style="color:#64b5f6;">뭘 그렇게나 놀래나</span><br><span style="color:#64b5f6;"><strong>摸 決落嘅娜 囉呢啦</strong></span></p>
 <p><span style="color:#64b5f6;">더 재밌는 걸 보여줄게</span><br><span style="color:#64b5f6;"><strong>托 姐咪嗯 哥 播喲豬嘅</strong></span></p>
