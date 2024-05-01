@@ -45,11 +45,11 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>&nbsp;</p>
 <p><span style="color:#e57373;">슬픔은 간이역에 코스모스로 피고</span><br><span style="color:#e57373;"><strong>是噴炆 間嘰肉嘅 故是麼是路 被故</strong></span></p>
 <p><span style="color:#e57373;">스쳐 불어온 넌 향긋한 바람</span><br><span style="color:#e57373;"><strong>是初 潘攞嗯 攞 限吉嘆 怕攬</strong></span></p>
-<p><span style="color:#ffd54f;"><strong>나 이제 뭉게구름 위에 성을 짓고</strong></span><br>拿 易借 蒙嘅故諗 V嗯 宋嗯 唧故</p>
-<p><span style="color:#ffd54f;"><strong>널 향해 창을 내리 바람 드는 창을</strong></span><br>耐 Young嘅 撐嗯 呢李 怕攬 跌能 撐嗯</p>
+<p>나 이제 뭉게구름 위에 성을 짓고<br><span style="color:#ffd54f;"><strong>拿 易借 蒙嘅故諗 V嗯 宋嗯 唧故</strong></span></p>
+<p>널 향해 창을 내리 바람 드는 창을<br><span style="color:#ffd54f;"><strong>耐 Young嘅 撐嗯 呢李 怕攬 跌能 撐嗯</strong></span></p>
 <p>&nbsp;</p>
-<p><span style="color:#e57373;">너의 그 한 마디 말도 그 웃음도</span><br><span style="color:#e57373;"><strong>攞爺 Ke限媽啲 賣多 Ke烏心多</strong></span></p>
+<p><span style="color:#e57373;">너의 그 한 마디 말도 그 웃음도</span><br><span style="color:#e57373;"><strong>攞爺 Ke 限 媽啲 賣多 Ke 烏心多</strong></span></p>
 <p><span style="color:#e57373;">나에겐 커다란 의미</span><br><span style="color:#e57373;"><strong>哪爺嘅 個打冷 伊面</strong></span></p>
 <p>너의 그 작은 눈빛도<br><span style="color:#ffd54f;"><strong>攞爺 Ke詫跟 燶別多</strong></span></p>
-<p>쓸쓸한 뒷모습도 나에겐 힘겨운 약속<br><span style="color:#ffd54f;"><strong>是是限 Ke 跌摸濕多 哪爺嘅 欠個嗯 藥熟</strong></span></p>
+<p>쓸쓸한 뒷모습도 나에겐 힘겨운 약속<br><span style="color:#ffd54f;"><strong>是是限 跌摸濕多 哪爺嘅 欠個嗯 藥熟</strong></span></p>
 <p>&nbsp;</p>
