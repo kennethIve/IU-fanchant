@@ -25,13 +25,13 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#ffb74d;">때때로 넌 자신 없어 하지만</span><br><span style="color:#ffb74d;"><strong>爹爹路 羅 茶仙 哦傻 瑕自晚</strong></span></p>
 <p><span style="color:#ffb74d;">그 수줍음조차 그저 좋아 난</span><br><span style="color:#ffb74d;"><strong>決 薯廚蒲做叉 決座 嘈丫 喇</strong></span></p>
 <p>&nbsp;</p>
-<p><span style="color:#64b5f6;"><strong>흐리거나, 시리도록 맑을</strong></span><br>幸連戈啦 時連多碌 賣近</p>
+<p>흐리거나, 시리도록 맑을<br><span style="color:#64b5f6;"><strong>幸連戈啦 時連多碌 賣近</strong></span></p>
 <p><span style="color:#ffb74d;">(손에 닿거나, 아득히 멀어질)</span><br><span style="color:#ffb74d;"><strong>(桑呢 得過啦， 啊嘟key 摩羅唧)</strong></span></p>
-<p><span style="color:#64b5f6;"><strong>네 모든 날들의 어느 열렬한</strong></span><br>呢 摩噸 啦脫呢 屙攣 喲睿喊</p>
-<p>00:36 <span style="color:#ffb74d;">(아이유의!)</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color:#ffb74d;"><strong>(阿依U誒!)</strong></span></p>
+<p>네 모든 날들의 어느 열렬한<br><span style="color:#64b5f6;"><strong>呢 摩噸 啦脫呢 屙攣 喲睿喊</strong></span></p>
+<p>00:47 <span style="color:#ffb74d;">(아이유의!)</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color:#ffb74d;"><strong>(阿依U誒!)</strong></span></p>
 <p><span style="color:#ffb74d;">관객이 될게</span><br><span style="color:#ffb74d;"><strong>裙嘅嘰 踢嘅</strong></span></p>
 <p>&nbsp;</p>
-<p><span style="color:#64b5f6;"><strong>난 나의 너를 믿어</strong></span><br>躝 啦嘢 囉爐咪哆</p>
+<p>난 나의 너를 믿어<br><span style="color:#64b5f6;"><strong>躝 啦嘢 囉爐咪哆</strong></span></p>
 <p>You're stunning, so stunning<br><span style="color:#64b5f6;"><strong>You're stunning, so stunning</strong></span></p>
 <p><span style="color:#ffb74d;">Go on</span>&nbsp;이 느낌 이어가&nbsp;<span style="color:#ffb74d;">(아이유!)</span><br><span style="color:#ffb74d;"><strong>Go on</strong></span> <span style="color:#64b5f6;"><strong>而 鄰儉 姨唷家</strong></span> <span style="color:#ffb74d;"><strong>(阿依U!)</strong></span></p>
 <p>&nbsp;</p>
@@ -39,7 +39,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>상관없어 너 끌리는 대로 해<br><span style="color:#64b5f6;"><strong>散關哦傻 羅 結鏈攣 爹路 hea</strong></span></p>
 <p>좋아 그건 또 그대로<br><span style="color:#64b5f6;"><strong>嘈牙 決趕 墮 決爹囉</strong></span></p>
 <p><span style="color:#ffb74d;"><strong>I'm stanning, just stanning</strong></span></p>
-<p><span style="color:#64b5f6;"><strong>You, I trust</strong></span> <s>my you</s><br>01:05 &nbsp;<span style="color:#ffb74d;"><strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I &nbsp; U</strong></span></p>
+<p><span style="color:#64b5f6;"><strong>You, I trust</strong></span> <s>my you</s><br>01:16 &nbsp;<span style="color:#ffb74d;"><strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I &nbsp; U</strong></span></p>
 <p>가, 너만의 승리를 이뤄<br><span style="color:#64b5f6;"><strong>駕，羅盲誒 先連鄰 姨囉</strong></span></p>
 <p>I'm stanning, just stanning you<br><span style="color:#64b5f6;"><strong>I'm stanning, just stanning you</strong></span></p>
 <p>&nbsp;</p>
@@ -78,7 +78,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>상관없어 너 끌리는 대로 해<br><span style="color:#64b5f6;"><strong>散關哦傻 羅 結鏈攣 爹路 hea&nbsp;</strong></span></p>
 <p>Oh 좋아 그건 또 그대로<br><span style="color:#64b5f6;"><strong>oh 嘈牙 決趕 墮 決爹囉</strong></span></p>
 <p><span style="color:#ffb74d;"><strong>I'm stanning, just stanning</strong></span></p>
-<p><span style="color:#64b5f6;"><strong>You, I trust</strong></span> <s>my you</s><br>&nbsp; &nbsp; &nbsp; &nbsp; 03:00 &nbsp;&nbsp;<span style="color:#ffb74d;"><strong>I &nbsp; U</strong></span></p>
+<p><span style="color:#64b5f6;"><strong>You, I trust</strong></span> <s>my you</s><br>&nbsp; &nbsp; &nbsp; &nbsp; 03:10 &nbsp;&nbsp;<span style="color:#ffb74d;"><strong>I &nbsp; U</strong></span></p>
 <p>가, 너만의 승리를 이뤄<br><span style="color:#64b5f6;"><strong>駕，羅盲誒 先連鄰 姨囉</strong></span></p>
 <p><span style="color:#ffb74d;"><strong>I'm stanning, just stanning</strong></span> <s>you</s></p>
 <p><span style="color:#ffb74d;">아!이!유! (함성)</span><br><span style="color:#ffb74d;"><strong>阿!依!U! (歡呼)</strong></span></p>
