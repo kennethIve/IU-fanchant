@@ -77,7 +77,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#e57373;">Let's go haul</span><br><span style="color:#e57373;"><strong>Let's go haul</strong></span></p>
 <p>더 미어터질 만큼 다 채워<span style="color:#e57373;">&nbsp;(아이유!)</span><br><span style="color:#64b5f6;"><strong>拖 面唷拖字 慢襟 他 車喎</strong></span> <span style="color:#e57373;"><strong>(啊!依!U!)</strong></span></p>
 <p><span style="color:#e57373;">Look around</span> <span style="color:#e57373;">(함성)</span><br><span style="color:#e57373;"><strong>Look around (歡呼)</strong></span></p>
-<p>시간은 짧아 더 빨리 가져<br><span style="color:#64b5f6;"><strong>時間能 齋霸 多拜唎 卡座</strong></span></p>
+<p>시간은 짧아 더 빨리 가져<br><span style="color:#64b5f6;"><strong>時間能 齋霸 多 拜唎 卡座</strong></span></p>
 <p>&nbsp;</p>
 <p><span style="color:#e57373;"><strong>Shop all day, ay</strong></span><br><span style="color:#e57373;"><strong>Greed is free, ay</strong></span></p>
 <p>&nbsp;</p>
