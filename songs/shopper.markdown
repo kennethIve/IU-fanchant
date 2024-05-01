@@ -5,9 +5,9 @@ title:  "Shopper"
 date:   2024-04-13 22:05:26 +0800
 categories: Fanchant
 # youtube url that redirect to the song
-youtube_url: https://www.youtube.com/watch?v=kHW-UVXOcLU
+youtube_url: https://youtu.be/9WKzt9QEmD4?feature=shared
 # youtube page click share -> click embed -> copy it in here, leave it blank if dont 
-youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/kHW-UVXOcLU?si=wrzNHdxssteeep8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/9WKzt9QEmD4?si=-4Lm7uaa35qjBQWv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 <p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色：空耳</strong></span></p>
@@ -31,7 +31,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#64b5f6;"><strong>(Oh it's so worth</strong></span><br><span style="color:#64b5f6;"><strong>It's more than what what)</strong></span></p>
 <p>&nbsp;</p>
 <p>빼곡히 적은&nbsp;<span style="color:#e57373;">wish list</span><br><span style="color:#64b5f6;"><strong>啤谷茄 作巾</strong></span><span style="color:#e57373;"><strong> wish list</strong></span></p>
-<p>빠짐없이 가질 때까지<br>霸佔莫匙 卡寺 嗲家字</p>
+<p>빠짐없이 가질 때까지<br><span style="color:#64b5f6;"><strong>霸佔莫匙 卡寺 嗲家字</strong></span></p>
 <p><span style="color:#64b5f6;"><strong>(Take what you want</strong></span><br><span style="color:#64b5f6;"><strong>No matter who calls you a freak)</strong></span></p>
 <p>&nbsp;</p>
 <p>설명할 필요&nbsp;<span style="color:#e57373;">없어</span><br><span style="color:#64b5f6;"><strong>粹命係 撇唷</strong></span> <span style="color:#e57373;"><strong>惡傻</strong></span></p>
