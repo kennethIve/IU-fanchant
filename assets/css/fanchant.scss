@@ -21,7 +21,8 @@
 }
 .body-sidenav{
   height: 80%;
-  overflow: scroll;
+  overflow-y:scroll;
+  scrollbar-width: none;
 }
 
 .sidenav a {

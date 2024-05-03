@@ -21,7 +21,8 @@
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
           </div>
           <div class="body-sidenav">
-            {%- for song in site.pages -%}
+            {% assign sorted_pages = site.pages | sort:"name" %}
+            {%- for song in sorted_pages -%}
               {%- if song.title and song.categories == 'Fanchant' -%}
             <a class="" href="{{ song.url | relative_url }}">{{ song.title | escape }}</a>
               {%- endif -%}
