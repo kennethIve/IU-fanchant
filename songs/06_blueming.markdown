@@ -17,7 +17,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#64b5f6;">(지.은.이.아.이.유.의.블.루.밍)</span><br><span style="color:#64b5f6;">(<strong>知.銀.黏. 啊.兒. U. 欸 BU LU MING)</strong></span></p>
 <p>&nbsp;</p>
 <p>'뭐해?'라는 두 글자에<br><span style="color:#ba68c8;"><strong>摩hea 喇論 對 渠炸yeah</strong></span></p>
-<p>네가 보고 싶어' 나의 속마음을 담아&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>唎嘎 破個涉破 娜耶 屬嘛陰嗯 他嗎</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
+<p>'네가 보고 싶어' 나의 속마음을 담아&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>唎嘎 破個 涉破 娜耶 屬嘛陰嗯 他嗎</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
 <p>이모티콘 하나하나 속에<br><span style="color:#ba68c8;"><strong>移摩庭幹 下拿霞那 索嘅</strong></span></p>
 <p>달라지는 내 미묘한 심리를 알까&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>達拿智亂 呢 me麼限 線蓮呢 嗌加</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
 <p>&nbsp;</p>
