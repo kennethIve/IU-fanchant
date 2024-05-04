@@ -38,7 +38,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>나 이제 뭉게구름 위에 성을 짓고<br><span style="color:#ffd54f;"><strong>拿 易借 蒙嘅故諗 V欸 宋嗯 唧故</strong></span></p>
 <p>널 향해 창을 내리 바람 드는 창을<br><span style="color:#ffd54f;"><strong>耐 Young嘅 撐嗯 呢李 怕攬 跌能 撐嗯</strong></span></p>
 <p>&nbsp;</p>
-<p><span style="color:#e57373;">슬픔은 간이역에 코스모스로 피고</span><br><span style="color:#e57373;"><strong>是噴炆 間咧肉嘅 故是麼是路 被故</strong></span></p>
+<p><span style="color:#e57373;">슬픔은 간이역에 코스모스로 피고</span><br><span style="color:#e57373;"><strong>是噴炆 間咧肉嘅 故是麼是路 p故</strong></span></p>
 <p><span style="color:#e57373;">스쳐 불어온 넌 향긋한 바람</span><br><span style="color:#e57373;"><strong>是初 潘攞嗯 攞 限吉嘆 怕攬</strong></span></p>
 <p>나 이제 뭉게구름 위에 성을 짓고<br><span style="color:#ffd54f;"><strong>拿 易借 蒙嘅故諗 V欸  宋嗯 唧故</strong></span></p>
 <p>널 향해 창을 내리 바람 드는 창을<br><span style="color:#ffd54f;"><strong>耐 Young嘅 撐嗯 呢唎 怕攬 跌能 撐嗯</strong></span></p>
