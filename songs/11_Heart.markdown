@@ -1,7 +1,7 @@
 ---
 layout: post
 # Song name
-title:  마음(Heart)
+title:  마음 (Heart)
 date:   2024-04-13 22:05:26 +0800
 categories: Fanchant
 # youtube url that redirect to the song
