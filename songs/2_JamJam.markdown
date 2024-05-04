@@ -1,7 +1,7 @@
 ---
 layout: post
 # Song name
-title:  잼잼(Jam Jam)
+title:  잼잼 (Jam Jam)
 date:   2024-04-13 22:05:26 +0800
 categories: Fanchant
 # youtube url that redirect to the song
