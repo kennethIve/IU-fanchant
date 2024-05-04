@@ -13,7 +13,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p style="display: flex; justify-content: center;"><span style="color:#ffb74d;;"><strong>橙色：耳空</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：應援</strong></span></p>
 
-<p>So are you happy now?<br></style><span style="color:#ffb74d;"><strong>So are you happy now?</strong></span>
+<p>So are you happy now?<br><span style="color:#ffb74d;"><strong>So are you happy now?</strong></span>
 </p>
 <p>Finally happy now? Yeah<br><span style="color:#ffb74d;"><strong>Finally happy now? Yeah</strong></span></p>
 <p>뭐 그대로야 난<br><span style="color:#ffb74d;"><strong>摸 決爹路吔 難</strong></span></p>
