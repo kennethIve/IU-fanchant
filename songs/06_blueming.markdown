@@ -10,7 +10,8 @@ youtube_url: https://youtu.be/REcKDqT4uhQ?feature=shared&t=88
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/REcKDqT4uhQ?si=5x27TDtG5WA0V9th&amp;start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p style="display: flex; justify-content: flex-end;"><span style="color:#ba68c8;"><strong>紫色：空耳</strong></span> <span> / </span><span style="color:#64b5f6;"><strong>藍色：應援</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#ba68c8;"><strong>紫色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#64b5f6;"><strong>藍色：應援</strong></span></p>
 
 <p>01:33</p>
 <p><span style="color:#64b5f6;">(지.은.이.아.이.유.의.블.루.밍)</span><br><span style="color:#64b5f6;">(<strong>知.銀.黏. 啊.兒. U. 夜 BU LU MING)</strong></span></p>
