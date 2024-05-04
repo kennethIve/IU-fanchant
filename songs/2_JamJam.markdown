@@ -38,7 +38,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>설탕 탕 탕 사랑 랑 랑<br><span style="color:rgb(229,115,115);"><strong>傻彈 彈 彈 沙冷 冷 冷</strong></span></p>
 <p>Jam&nbsp;<br><span style="color:rgb(229,115,115);"><strong>Jam&nbsp;</strong></span></p>
 <p>설탕 탕 탕 사랑 랑 랑<br><span style="color:rgb(229,115,115);"><strong>傻彈 彈 彈 沙冷 冷 冷</strong></span></p>
-<p><br>사랑한다고 해<br><span style="color:rgb(229,115,115);"><strong>傻彈 彈 彈 沙冷 冷 冷</strong></span></p>
+<p><br>사랑한다고 해<br><span style="color:rgb(229,115,115);"><strong>沙冷哈打告 Hea</strong></span></p>
 <p>입에 발린 말을 해 예쁘게<br><span style="color:rgb(229,115,115);"><strong>葉誒 爸鏈 馬鄰 Hea 嘢搬嘅</strong></span></p>
 <p>끈적끈적 절여서 보관할게<br><span style="color:rgb(229,115,115);"><strong>決作決作 左囉梳 播關哈嘅</strong></span></p>
 <p>썩지 않게 아주 오래<br><span style="color:rgb(229,115,115);"><strong>索字 晏嘅 阿住 哦呢</strong></span></p>
