@@ -12,19 +12,15 @@ layout: default
   {%- if site.pages.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for song in site.pages -%}
+      {% assign sorted_pages = site.pages | sort:"name" %}
+      {%- for song in sorted_pages -%}
       {%- if song.title and song.categories == 'Fanchant' -%}
-      <li>
-        <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} -->
-        <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
-        <h3>
+      <li>        
+        <h4>
           <a class="post-link" href="{{ song.url | relative_url }}">
             {{ song.title | escape }}
           </a>
-        </h3>
-        <!-- {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%} -->
+        </h4>        
       </li>
       {%- endif -%}      
       {%- endfor -%}
