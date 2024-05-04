@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IU Fanchant HK
+title: OurUhk • 我們IU香港後援會
 email: ouruhk@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  𝙈𝙚𝙒𝙚 / 𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠: OurUhk • 我們IU香港後援會
-  📽 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 & 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢: OurUhk
+description: >- # this means to ignore newlines until "baseurl:"  
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://fanchants.ouruhk.com" # the base hostname & protocol for your site, e.g. http://example.com
+social-media-list-display-style: ruby
 twitter_username: OurUhk
-github_username:  OurUhk
+instagram_username: OurUhk
+facebook_username: OurUhk
+youtube_username: OurUhk0516
 
+footer-tag: © 2024 OurUhk
 # Build settings
 theme: minima
 plugins:
