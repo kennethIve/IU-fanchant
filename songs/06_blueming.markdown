@@ -67,7 +67,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#64b5f6;">우리의 네모 칸은 bloom</span><br><span style="color:#64b5f6;"><strong>互唎夜 LEMON 卡銀 bloom</strong></span></p>
 <p><span style="color:#64b5f6;">엄지손가락으로 장미꽃을 피워</span><br><span style="color:#64b5f6;"><strong>暗智喪嘎喇毆路 撐面哥柱 P喎</strong></span></p>
 <p>향기에 취할 것 같아&nbsp;<span style="color:#64b5f6;">우</span><br><span style="color:#ba68c8;"><strong>行技夜 銼係 覺 家塔</strong></span> <span style="color:#64b5f6;"><strong>烏</strong></span></p>
-<p>오직 둘만의 비밀의 정원<br><span style="color:#ba68c8;"><strong>哦節 對掹呢 p瞇呢 從won/strong></span></p>
+<p>오직 둘만의 비밀의 정원<br><span style="color:#ba68c8;"><strong>哦節 對掹呢 p瞇呢 從won</strong></span></p>
 <p>&nbsp;</p>
 <p><span style="color:#ba68c8;"><strong>I Feel</strong></span>&nbsp;<span style="color:#64b5f6;"><strong>bloom</strong></span><br><span style="color:#ba68c8;"><strong>I Feel</strong></span><span style="color:#64b5f6;">&nbsp;<strong>bloom</strong></span><br><span style="color:#ba68c8;"><strong>I Feel</strong></span>&nbsp;<span style="color:#64b5f6;"><strong>bloom</strong></span></p>
 <p>너에게 한 송이를 더 보내<br><span style="color:#ba68c8;"><strong>羅夜嘅 撼 頌姨裡 多 播呢</strong></span></p>
