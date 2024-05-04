@@ -13,21 +13,21 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：空耳</strong></span></p>
 <p style="display: flex; justify-content: center;"><span style="color:#ffd54f;"><strong>黃色：應援</strong></span></p>
 
-<p>세상의 모서리<br><span style="color:#e57373;"><strong>瀉生呢 冇梳咧</strong></span></p>
-<p>구부정하게 커버린<br><span style="color:#e57373;"><strong>古堡裝哈既 可波黏</strong></span></p>
-<p>골칫거리 outsider<br><span style="color:#e57373;"><strong>戈戚歌呢 outsider</strong></span></p>
+<p>세상의 모서리<br><span style="color:#e57373;"><strong>瀉生誒 木梳唎</strong></span></p>
+<p>구부정하게 커버린<br><span style="color:#e57373;"><strong>古堡裝哈既 嗰波黏</strong></span></p>
+<p>골칫거리 outsider<br><span style="color:#e57373;"><strong>戈戚歌唎 outsider</strong></span></p>
 <p>&nbsp;</p>
-<p>걸음걸이, 옷차림<br><span style="color:#e57373;"><strong>各亂戈呢, 哦叉黏</strong></span></p>
+<p>걸음걸이, 옷차림<br><span style="color:#e57373;"><strong>各亂戈唎, 哦叉黏</strong></span></p>
 <p>이어폰 너머 playlist<br><span style="color:#e57373;"><strong>兒噢瘋 囉磨 playlist</strong></span></p>
-<p>음악까지 다 minor<br><span style="color:#e57373;"><strong>嗯媽家支 它 minor</strong></span></p>
+<p>음악까지 다 minor<br><span style="color:#e57373;"><strong>嗯媽家支 打 minor</strong></span></p>
 <p>&nbsp;</p>
 <p>넌 모르지<br><span style="color:#e57373;"><strong>囉 魔魯自</strong></span></p>
 <p>떨군 고개 위<br><span style="color:#e57373;"><strong>代官 個嘅 we</strong></span></p>
-<p>환한 빛 조명이<br><span style="color:#e57373;"><strong>閒閒 必 做夢姨</strong></span></p>
+<p>환한 빛 조명이<br><span style="color:#e57373;"><strong>華南 必 做命姨</strong></span></p>
 <p>어딜 비추는지<br><span style="color:#e57373;"><strong>哦田 必柱暖之</strong></span></p>
 <p>&nbsp;</p>
-<p>느려도 좋으니<br><span style="color:#e57373;"><strong>年羅都 柱與年</strong></span></p>
-<p>결국 알게 되길<br><span style="color:#e57373;"><strong>求局 挨嘅 爹叫</strong></span></p>
+<p>느려도 좋으니<br><span style="color:#e57373;"><strong>年羅都 柱嗯練</strong></span></p>
+<p>결국 알게 되길<br><span style="color:#e57373;"><strong>求局 挨嘅 踢嘰</strong></span></p>
 <p>The one and only<br><span style="color:#e57373;"><strong>The one and only</strong></span></p>
 <p><span style="color:#ffd54f;">You are my celebrity</span><br><span style="color:#ffd54f;"><strong>You are my celebrity</strong></span></p>
 <p>&nbsp;</p>
