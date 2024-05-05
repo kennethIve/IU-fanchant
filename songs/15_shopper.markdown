@@ -27,7 +27,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#e57373;"><strong>(I need it, course</strong></span><br><span style="color:#e57373;"><strong>I'll take it, course course)</strong></span></p>
 <p>&nbsp;</p>
 <p>가슴 터질 듯<br><span style="color:#64b5f6;"><strong>卡深 拖字 段</strong></span></p>
-<p>내 이름을 외치는 목소리&nbsp;<span style="color:#e57373;">(아이유!)</span><br><span style="color:#64b5f6;"><strong>呢 依攣問 為黐聯 木梳咧</strong></span> <span style="color:#e57373;"><strong>(啊依U!)</strong></span></p>
+<p>내 이름을 외치는 목소리&nbsp;<span style="color:#e57373;">(아이유!)</span><br><span style="color:#64b5f6;"><strong>呢 依攣問 為黐聯 木梳唎</strong></span> <span style="color:#e57373;"><strong>(啊依U!)</strong></span></p>
 <p><span style="color:#64b5f6;"><strong>(Oh it's so worth</strong></span><br><span style="color:#64b5f6;"><strong>It's more than what what)</strong></span></p>
 <p>&nbsp;</p>
 <p>빼곡히 적은&nbsp;<span style="color:#e57373;">wish list</span><br><span style="color:#64b5f6;"><strong>啤谷茄 作巾</strong></span><span style="color:#e57373;"><strong> wish list</strong></span></p>
@@ -50,7 +50,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>이 샵은 문 닫지 않아 늘, 영원히<br><span style="color:#64b5f6;"><strong>以 殺賓 門 塔之 眼喇 論, 雍旺連</strong></span></p>
 <p>&nbsp;</p>
 <p><span style="color:#e57373;">(우리가 가질게 아!이!유!)</span><br><span style="color:#e57373;"><strong>(烏哩加 卡之嘅 啊!依!U!)</strong></span></p>
-<p><br>마지막 소절 숨의 첫모금<br>媽之擘 梳再 輸咩 錯莫柑</p>
+<p><br>마지막 소절 숨의 첫모금<br><span style="color:#64b5f6;"><strong>媽之擘 梳再 輸咩 錯莫柑</strong></span></p>
 <p><span style="color:#e57373;"><strong>(It's time to show</strong></span><br><span style="color:#e57373;"><strong>Go, make it sure, sure)</strong></span></p>
 <p>&nbsp;</p>
 <p>승리를 앞둔<br><span style="color:#64b5f6;"><strong>輸唎嘍 鴨頓</strong></span></p>
