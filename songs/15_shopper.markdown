@@ -49,7 +49,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>가지러 태어난 것처럼<br><span style="color:#64b5f6;"><strong>卡之路 踢痾難 割初浪</strong></span></p>
 <p>이 샵은 문 닫지 않아 늘, 영원히<br><span style="color:#64b5f6;"><strong>以 殺賓 門 塔之 眼喇 論, 雍旺連</strong></span></p>
 <p>&nbsp;</p>
-<p><span style="color:#e57373;">(우리가 가질게 아!이!유!)</span><br><span style="color:#e57373;"><strong>(烏哩加 卡之嘅 啊!依!U!)</strong></span></p>
+<p><span style="color:#e57373;">(우리가 가질게 아!이!유!)</span><br><span style="color:#e57373;"><strong>(烏唎加 卡之嘅 啊!依!U!)</strong></span></p>
 <p><br>마지막 소절 숨의 첫모금<br><span style="color:#64b5f6;"><strong>媽之擘 梳再 輸咩 錯莫柑</strong></span></p>
 <p><span style="color:#e57373;"><strong>(It's time to show</strong></span><br><span style="color:#e57373;"><strong>Go, make it sure, sure)</strong></span></p>
 <p>&nbsp;</p>
