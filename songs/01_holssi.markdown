@@ -32,7 +32,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>묻는 누군가<br><span style="color:#64b5f6;"><strong>木嗯 嚕古嫁</strong></span></p>
 <p>있거든 전해줘<br><span style="color:#64b5f6;"><strong>姨哥等 藏hea左</strong></span></p>
  <p>&nbsp;</p>
-<p><span style="color:#ff6f00;">걔는 홀씨가 됐다구</span><br><span style="color:#ff6f00;"><strong>嘅能 好事家 踢太姑</strong></span></p>
+<p><span style="color:#ff6f00;">걔는 홀씨가 됐다구</span><br><span style="color:#ff6f00;"><strong>嘅能 好事家 踢打姑</strong></span></p>
  <p>&nbsp;</p>
 <p>날 따라,<span style="color:#ff6f00;"> gonna go to win</span><br><span style="color:#64b5f6;"><strong>啦 打啦, </strong></span><span style="color:#ff6f00;"><strong>gonna go to win</strong></span></p>
 <p>날 따라, 날아가 꼭대기루<br><span style="color:#64b5f6;"><strong>啦 打啦, 娜啦嫁 谷爹見嚕</strong></span></p>
@@ -70,7 +70,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>묻는 누군가<br><span style="color:#64b5f6;"><strong>木能 嚕古嫁</strong></span></p>
 <p>있거든 전해줘<br><span style="color:#64b5f6;"><strong>姨哥等 藏hea左</strong></span></p>
  <p>&nbsp;</p>
-<p><span style="color:#ff6f00;">걔는 홀씨가 됐다구</span><br><span style="color:#ff6f00;"><strong>嘅能 好事家 踢太姑</strong></span></p>
+<p><span style="color:#ff6f00;">걔는 홀씨가 됐다구</span><br><span style="color:#ff6f00;"><strong>嘅能 好事家 踢打姑</strong></span></p>
  <p>&nbsp;</p>
 
  
