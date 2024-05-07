@@ -51,8 +51,8 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#ffb74d;">또 어떻게든 파고들어 와 넌</span><br><span style="color:#ffb74d;"><strong>多 哦墮嘅登 爬稿脫羅 娃 烙</strong></span></p>
 <p>&nbsp;</p>
 <p>어둡거나, 눈부시게 밝을<br><span style="color:#64b5f6;"><strong>哦TWO戈那 亂蒲時嘅 爬近</strong></span></p>
-<p><span style="color:#ffb74d;">(소란하거나, 아득히 고요할)</span><br><span style="color:#ffb74d;"><strong>(所懶蛤戈那 亞嘟key 高喲肯)</strong></span></p>
-<p>그 모든 날들의 어느 열렬한<br><span style="color:#64b5f6;"><strong>決 摩噸 難脫呢 屙攣 喲睿喊</strong></span></p>
+<p><span style="color:#ffb74d;">(소란하거나, 아득히 고요할)</span><br><span style="color:#ffb74d;"><strong>(所懶蛤戈那 亞嘟key 高喲喺)</strong></span></p>
+<p>그 모든 날들의 어느 열렬한<br><span style="color:#64b5f6;"><strong>哥 摩噸 難脫呢 屙攣 喲睿喊</strong></span></p>
 <p><span style="color:#ffb74d;">(아이유의!)</span><br><span style="color:#ffb74d;"><strong>(阿依U誒!)</strong></span></p>
 <p><span style="color:#ffb74d;">관객이 될게 (함성)</span><br><span style="color:#ffb74d;"><strong>裙嘅嘰 踢嘅 (歡呼)</strong></span></p>
 <p>&nbsp;</p>
