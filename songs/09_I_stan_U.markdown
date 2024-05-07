@@ -43,7 +43,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>가, 너만의 승리를 이뤄<br><span style="color:#64b5f6;"><strong>駕，羅盲誒 先連鄰 姨囉</strong></span></p>
 <p>I'm stanning, just stanning you<br><span style="color:#64b5f6;"><strong>I'm stanning, just stanning you</strong></span></p>
 <p>&nbsp;</p>
-<p>01:15 <span style="color:#ffb74d;">(영원히! 유애나!)</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color:#ffb74d;"><strong>(羊黃連! 雨誒娜!)</strong></span></p>
+<p>01:15 <span style="color:#ffb74d;">(영원히! 유애나!)</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color:#ffb74d;"><strong>(雍旺連! 雨誒娜!)</strong></span></p>
 <p>&nbsp;</p>
 <p>오늘도 스치듯 그 말이<br><span style="color:#64b5f6;"><strong>噢鄰都 嘶此嘟 決馬鏈</strong></span></p>
 <p>날 쉬게 하는 걸 아는지<br><span style="color:#64b5f6;"><strong>難 恕嘅 哈嗯 戈 亞嗯知</strong></span></p>
