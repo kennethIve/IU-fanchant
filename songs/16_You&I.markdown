@@ -30,8 +30,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>내 이름을 불 <span style="color:#e57373;">(아！)</span>&nbsp;러<span style="color:#e57373;"> (이！)</span>&nbsp;줘 <span style="color:#e57373;">(유！)</span><br><span style="color:#ffd54f;"><strong>呢 依臨妹 &nbsp;bu</strong></span> <span style="color:#e57373;"><strong>(阿！)</strong></span><span style="color:#ffd54f;"><strong> 囉 </strong></span><span style="color:#e57373;"><strong>(依！)</strong></span> <span style="color:#ffd54f;"><strong>初</strong></span><span style="color:#e57373;"><strong> (U！)</strong></span></p>
 <p>01:31 <span style="color:#e57373;">(아이유를 불러줘！)</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color:#e57373;"><strong>(阿依U能 陪囉初！)</strong></span></p>
 <p>&nbsp;</p>
-<p>01:38<span style="color:#e57373;"> (아이유 아이유 아이유</span></p>
-<p><span style="color:#e57373;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;아이유 아이유 아이유 너.랑.나.)</span><br><span style="color:#e57373;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(IU &nbsp;IU &nbsp;IU &nbsp;IU &nbsp;IU &nbsp;IU &nbsp;挪.躝.那.)</strong></span></p>
+<p>01:38<span style="color:#e57373;"> (아이유 아이유 아이유</span><br><span style="color:#e57373;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;아이유 아이유 아이유 너.랑.나.)</span><br><span style="color:#e57373;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(IU &nbsp;IU &nbsp;IU &nbsp;IU &nbsp;IU &nbsp;IU &nbsp;挪.躝.那.)</strong></span></p>
 <p>&nbsp;</p>
 <p>내가 먼저 엿보고 온 시간들&nbsp;<span style="color:#e57373;">(너랑 나의 시간들)</span><br><span style="color:#ffd54f;"><strong>唎家 芒炸 喲波故 安 時間等</strong></span> <span style="color:#e57373;"><strong>(挪躝 那欸 時間等)</strong></span></p>
 <p>너와 내가 함께였었지<span style="color:#e57373;">&nbsp;(아.이.유.짱)</span><br><span style="color:#ffd54f;"><strong>挪哇 呢家 陷嘅喲梳字</strong></span><span style="color:#e57373;"><strong>（阿.依.U. 讚)</strong></span></p>
