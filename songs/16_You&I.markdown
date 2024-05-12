@@ -17,7 +17,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>지금 내 모습을 해쳐도 좋아<br><span style="color:#ffd54f;"><strong>知金 呢 抺斯迫 hea左度 廚哇</strong></span></p>
 <p>나를 재촉하면 할수록 좋아<br><span style="color:#ffd54f;"><strong>那能 車軸卡面 喺數魯 廚哇</strong></span></p>
 <p>내 이름 불러줘<br><span style="color:#ffd54f;"><strong>呢 依臨 般囉錯</strong></span></p>
-<p>00:44 <span style="color:#e57373;">(아.이.유)</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color:#e57373;"><strong>(呀.依.U)</strong></span></p>
+<p>00:44 <span style="color:#e57373;">(아.이.유)</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color:#e57373;"><strong>(呀.依.U)</strong></span></p>
 <p>&nbsp;</p>
 <p>손 틈새로 비치는 내 맘 들킬까 두려<span style="color:#e57373;">워</span><br><span style="color:#ffd54f;"><strong>數 氹些魯 p次能 呢 媽 等嘰家 two囉</strong></span><span style="color:#e57373;"><strong>和</strong></span></p>
 <p>가슴이 막 벅차 서러<span style="color:#e57373;">워</span><br><span style="color:#ffd54f;"><strong>卡深咪 媽 波茶 梳囉</strong></span><span style="color:#e57373;"><strong>喎</strong></span></p>
