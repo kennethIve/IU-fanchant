@@ -9,6 +9,9 @@ youtube_url: https://youtu.be/bKowlY7ZkPs?feature=shared&t=12
 # youtube page click share -> click embed -> copy it in here, leave it blank if dont 
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/bKowlY7ZkPs?si=2AwB-Bx9z32M6mjz&amp;start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
+<p style="display: flex; justify-content: center;"><span style="color:#ffd54f;"><strong>黃色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：應援</strong></span></p>
+
 <p>00:28 <span style="color:#e57373;">(너！랑！나！랑！)</span><br><span style="color:#e57373;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong> (挪！躝！那！躝！)</strong></span></p>
 <p>&nbsp;</p>
 <p>시곌 보며 속삭이는 비밀들&nbsp;<span style="color:#e57373;">(너랑 나의 비밀들)</span><br><span style="color:#ffd54f;"><strong>時嘅 波沒 縮沙嘰能 p咪等</strong></span><span style="color:#e57373;"> <strong>(挪躝 那欸 p咪等)</strong></span></p>
