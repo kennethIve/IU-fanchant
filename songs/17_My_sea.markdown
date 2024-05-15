@@ -13,7 +13,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：空耳</strong></span></p>
 
 <p>그러나 시간이 지나도<br><span style="color:#e57373;"><strong>決啷那 詩間姨 之拿到</strong></span></p>
-<p>아물지 않는 일들이 있지<br><span style="color:#e57373;"><strong>決啷那 詩間姨 之拿到</strong></span></p>
+<p>아물지 않는 일들이 있지<br><span style="color:#e57373;"><strong>阿妹知 晏亂 已啲唎 依知</strong></span></p>
 <p>내가 날 온전히 사랑하지 못해서<br><span style="color:#e57373;"><strong>呢家 奶 浣創咧 沙朗哈知 末踢疏</strong></span></p>
 <p>맘이 가난한 밤이야<br><span style="color:#e57373;"><strong>媽咪 卡那行 盼咿呀</strong></span></p>
 <p>&nbsp;</p>
