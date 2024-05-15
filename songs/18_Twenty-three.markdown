@@ -46,7 +46,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>뭐든 한 쪽을 골라<br><span style="color:#ba68c8;"><strong>摩登 難 作跟 故啦</strong></span></p>
 <p>색안경 안에 비춰지는 거 뭐 이제 익숙하거든<br><span style="color:#ba68c8;"><strong>些間概 晏呢 撇錯字能 個 摸 依遮 依數加個等</strong></span></p>
 <p>&nbsp;</p>
-<p>01:20 <span style="color:#e57373;">아.이.유.의.스.물.셋&nbsp;Check it out</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color:#e57373;"><strong> 阿.依.U.誒.書.妹.鍚 Check it out</strong></span></p>
+<p>01:57 <span style="color:#e57373;">아.이.유.의.스.물.셋&nbsp;Check it out</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color:#e57373;"><strong> 阿.依.U.誒.書.妹.鍚 Check it out</strong></span></p>
 <p>&nbsp;</p>
 <p>겁나는 게 없어요 엉망으로 굴어도<br><span style="color:#ba68c8;"><strong>降那能 嘅 惡傻喲 安慢嗯囉 固樂多&nbsp;</strong></span></p>
 <p>사람들은 내게 매일 친절해요<br><span style="color:#ba68c8;"><strong>沙攬等能 呢嘅 咩以 千錯呢喲</strong></span></p>
