@@ -10,6 +10,9 @@ youtube_url: https://youtu.be/aZGaSrI0RoY?feature=shared
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/aZGaSrI0RoY?si=oMosehFrY03lY2BI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+<p style="display: flex; justify-content: center;"><span style="color:#ba68c8;"><strong>紫色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong>紅色：應援</strong></span></p>
+
 <p>00:02 <span style="color:#e57373;">아이유</span><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color:#e57373;"><strong>阿依U</strong></span></p>
 <p>I'm twenty three 난 수수께끼&nbsp;<span style="color:#e57373;">Question</span><br><span style="color:#ba68c8;"><strong>I’m twenty three 難 數數嘅嘰</strong></span> <span style="color:#e57373;"><strong>Question</strong></span></p>
 <p>뭐게요 맞혀봐요<span style="color:#e57373;">&nbsp;(아이유!)</span><br><span style="color:#ba68c8;"><strong>摸嘅喲 媽錯巴喲</strong></span> <span style="color:#e57373;"><strong>(阿依U!)</strong></span></p>
