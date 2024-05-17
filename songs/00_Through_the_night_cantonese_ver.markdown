@@ -1,7 +1,7 @@
 ---
 layout: post
 # Song name
-title: 長夜 (夜信 Through The Night - 廣東話版)
+title: 長夜 (Through The Night - 廣東話版)
 date:   2024-04-13 22:05:26 +0800
 categories: Fanchant
 # youtube url that redirect to the song
