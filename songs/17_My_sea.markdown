@@ -5,9 +5,9 @@ title: 아이와 나의 바다 (My sea)
 date:   2024-04-13 22:05:26 +0800
 categories: Fanchant
 # youtube url that redirect to the song
-youtube_url: https://youtu.be/TqIAndOnd74?feature=shared
+youtube_url: https://youtu.be/EWg8_eqb_NA?feature=shared
 # youtube page click share -> click embed -> copy it in here, leave it blank if dont 
-youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/TqIAndOnd74?si=IZaUHShsB84NzWIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/EWg8_eqb_NA?si=4PSGE8b1lk2-Miqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 <p style="display: flex; justify-content: center;"><span style="color:#e57373;"><strong> RED：廣東話空耳</strong></span></p>
