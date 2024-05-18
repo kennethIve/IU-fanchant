@@ -38,7 +38,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>파도가 되어 어디로든 달려가고 싶어<br><span style="color:#e57373;"><strong>怕導家 踢哦 餓啲囉等 他量卡故 攝破</strong></span><br><span style="color:#ffd54f;"><strong>padoga dweeo eodirodeun dallyeogago shipeo</strong></span></p>
 <p>작은 두려움 아래 천천히 두 눈을 뜨면<br><span style="color:#e57373;"><strong>差筋 &nbsp;two量嗚 媽呢 倉倉唎 two 亂嚕 跌妄</strong></span><br><span style="color:#ffd54f;"><strong>jageun duryeoum arae cheoncheonhi du nuneul tteumyeon</strong></span></p>
 <p>&nbsp;</p>
-<p>세상은 그렇게 모든 순간<br><span style="color:#e57373;"><strong>瀉生銀 決落茄 無等瞬順</strong></span><br><span style="color:#ffd54f;"><strong>sesangeun geureoke modeun sungan</strong></span></p>
+<p>세상은 그렇게 모든 순간<br><span style="color:#e57373;"><strong>瀉生銀 決落茄 無等瞬間</strong></span><br><span style="color:#ffd54f;"><strong>sesangeun geureoke modeun sungan</strong></span></p>
 <p>내게로 와 눈부신 선물이 되고<br><span style="color:#e57373;"><strong>呢嘅嚕 哇 亂布先 喪母利 踢故</strong></span><br><span style="color:#ffd54f;"><strong>naegero wa nunbushin seonmuri dwego</strong></span></p>
 <p>숱하게 의심하던 나는 그제야<br><span style="color:#e57373;"><strong>熟他嘅 we閃媽當 那亂 決姐呀</strong></span><br><span style="color:#ffd54f;"><strong>suthage uishimhadeon naneun geujeya</strong></span></p>
 <p>나에게 대답할 수 있을 것 같아<br><span style="color:#e57373;"><strong>那欸嘅 踢搭拜 數 依私 覺 架他</strong></span><br><span style="color:#ffd54f;"><strong>naege daedaphal su isseul geot gata</strong></span></p>
