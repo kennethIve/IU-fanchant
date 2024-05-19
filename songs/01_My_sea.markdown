@@ -46,7 +46,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p>선 너머에 기억이<br><span style="color:#e57373;"><strong>爽 挪魔欸 祈訶技</strong></span><br><span style="color:#ffd54f;"><strong>seon neomeoe gieoki</strong></span></p>
 <p>나를 부르고 있어<br><span style="color:#e57373;"><strong>那嚕 噗魯故 依所</strong></span><br><span style="color:#ffd54f;"><strong>nareul bureugo isseo</strong></span></p>
 <p>아주 오랜 시간 동안<br><span style="color:#e57373;"><strong>阿注 餓靚 時間 東晏</strong></span><br><span style="color:#ffd54f;"><strong>aju oraen shigan dongan</strong></span></p>
-<p>잊고 있던 목소리에<br><span style="color:#e57373;"><strong>依故 依當 木所唎欸</strong></span><br><span style="color:#ffd54f;"><strong>aju oraen shigan dongan</strong></span></p>
+<p>잊고 있던 목소리에<br><span style="color:#e57373;"><strong>依故 依當 木所唎欸</strong></span><br><span style="color:#ffd54f;"><strong>ijgo itteon moksorie</strong></span></p>
 <p>&nbsp;</p>
 <p>물결을 거슬러 나 돌아가<br><span style="color:#e57373;"><strong>悶該呢 個師囉 那 two囉家</strong></span><br><span style="color:#ffd54f;"><strong>mulgyeoreul geoseulleo na doraga</strong></span></p>
 <p>내 안의 바다가 태어난 곳으로<br><span style="color:#e57373;"><strong>呢 阿呢 趴打架 踢哦難 谷師嚕</strong></span><br><span style="color:#ffd54f;"><strong>nae ane badaga taeeonan goseuro</strong></span></p>
