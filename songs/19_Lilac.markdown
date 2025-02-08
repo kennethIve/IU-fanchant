@@ -10,9 +10,6 @@ youtube_url: https://youtu.be/LqfimuFAFJ8?feature=shared
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/LqfimuFAFJ8?si=bv-jvb2eBBV68cbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-<p style="display: flex; justify-content: center;"><span style="color:#ce93d8;"><strong>紅色：空耳</strong></span></p>
-<p style="display: flex; justify-content: center;"><span style="color:hsl(336,100%,50%);"><strong>紫色：應援</strong></span></p>
-
 <p style="margin-left:0cm;"><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="EN-US" dir="ltr">00:07안녕&nbsp;라일락&nbsp;우리의&nbsp;라일락</span></span></p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr"><strong>晏孃&nbsp;拉依勒&nbsp;烏唎誒&nbsp;拉依勒</strong></span></span></p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr">아</span><span lang="EN-US" dir="ltr">.</span><span lang="ZH-TW" dir="ltr">이</span><span lang="EN-US" dir="ltr">.</span><span lang="ZH-TW" dir="ltr">유</span></span></p>
@@ -76,7 +73,6 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:hsl(336,100%,50%);"><span lang="ZH-TW" dir="ltr"><strong>屙攣&nbsp;依駁唎&nbsp;二拖六&nbsp;太空媽嫁</strong></span></span><span style="color:#FF0066;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr"><strong>&nbsp;</strong></span></span><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="EN-US" dir="ltr"><strong>(</strong></span><span lang="ZH-TW" dir="ltr"><strong>拉</strong></span><span lang="EN-US" dir="ltr"><strong>.</strong></span><span lang="ZH-TW" dir="ltr"><strong>依</strong></span><span lang="EN-US" dir="ltr"><strong>.</strong></span><span lang="ZH-TW" dir="ltr"><strong>勒</strong></span><span lang="EN-US" dir="ltr"><strong>)</strong></span></span></p>
 <p><span lang="EN-US" dir="ltr">Love resembles misty dream</span></p>
 <p style="margin-left:0cm;">&nbsp;</p>
-<p style="margin-left:0cm;">&nbsp;</p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr">오&nbsp;라일락&nbsp;꽃이&nbsp;지는&nbsp;날</span><span lang="EN-US" dir="ltr"> goodbye</span></span></p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr"><strong>奧&nbsp;拉依勒&nbsp;谷次&nbsp;字能&nbsp;乃</strong></span><span lang="EN-US" dir="ltr"><strong> goodbye</strong></span></span></p>
 <p><span lang="ZH-TW" dir="ltr">이런&nbsp;결말이&nbsp;어울려</span></p>
@@ -109,8 +105,6 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr">내&nbsp;청춘은&nbsp;아이유</span><span lang="EN-US" dir="ltr">!</span></span></p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr"><strong>呢&nbsp;蒼村鄰&nbsp;阿依</strong></span><span lang="EN-US" dir="ltr"><strong>U!</strong></span></span></p>
 <p style="margin-left:0cm;">&nbsp;</p>
-<p>&nbsp;</p>
-<p style="margin-left:0cm;">&nbsp;</p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr">오&nbsp;라일락&nbsp;꽃이&nbsp;지는&nbsp;날</span><span lang="EN-US" dir="ltr"> goodbye</span></span></p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr"><strong>奧&nbsp;拉依勒&nbsp;谷次&nbsp;字能&nbsp;乃</strong></span><span lang="EN-US" dir="ltr"><strong> goodbye</strong></span></span></p>
 <p><span lang="ZH-TW" dir="ltr">너의&nbsp;대답이&nbsp;날&nbsp;울려</span></p>
@@ -139,5 +133,5 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr">뜬구름처럼</span></span></p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr"><strong>燉姑攣初浪</strong></span></span></p>
 <p style="margin-left:0cm;">&nbsp;</p>
-<p><span style="font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="EN-US" dir="ltr">(</span></span><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr">함성</span><span lang="EN-US" dir="ltr">)</span></span></p>
+<p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="EN-US" dir="ltr">(</span><span lang="ZH-TW" dir="ltr">함성</span><span lang="EN-US" dir="ltr">)</span></span></p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="EN-US" dir="ltr"><strong>(</strong></span><span lang="ZH-TW" dir="ltr"><strong>歡呼</strong></span><span lang="EN-US" dir="ltr"><strong>)</strong></span></span></p>
