@@ -11,7 +11,7 @@ youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/emb
 
 ---
 <p style="display: flex; justify-content: center;"><span style="color:#7030A0;"><strong>紅色：空耳</strong></span></p>
-<p style="display: flex; justify-content: center;"><span style="color:#FF0066;"><strong>紫色：應援</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:#ce93d8;"><strong>紫色：應援</strong></span></p>
 
 <p style="margin-left:0cm;"><span style="color:#7030A0;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="EN-US" dir="ltr">00:07안녕&nbsp;라일락&nbsp;우리의&nbsp;라일락</span></span></p>
 <p><span style="color:#7030A0;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr"><strong>晏孃&nbsp;拉依勒&nbsp;烏唎誒&nbsp;拉依勒</strong></span></span></p>
