@@ -5,7 +5,7 @@ title:  라일락 (Lilac)
 date:   2024-04-13 22:05:26 +0800
 categories: Fanchant
 # youtube url that redirect to the song
-youtube_url: https://www.youtube.com/watch?v=LqfimuFAFJ8
+youtube_url: https://youtu.be/LqfimuFAFJ8?feature=shared
 # youtube page click share -> click embed -> copy it in here, leave it blank if dont 
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/LqfimuFAFJ8?si=bv-jvb2eBBV68cbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
