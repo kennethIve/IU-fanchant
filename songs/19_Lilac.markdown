@@ -10,6 +10,9 @@ youtube_url: https://youtu.be/LqfimuFAFJ8?feature=shared
 youtube_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/LqfimuFAFJ8?si=bv-jvb2eBBV68cbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+<p style="display: flex; justify-content: center;"><span style="color:#ce93d8;"><strong>紅色：空耳</strong></span></p>
+<p style="display: flex; justify-content: center;"><span style="color:hsl(336,100%,50%);"><strong>紫色：應援</strong></span></p>
+
 <p style="margin-left:0cm;"><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="EN-US" dir="ltr">00:07안녕&nbsp;라일락&nbsp;우리의&nbsp;라일락</span></span></p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr"><strong>晏孃&nbsp;拉依勒&nbsp;烏唎誒&nbsp;拉依勒</strong></span></span></p>
 <p><span style="color:#ce93d8;font-family:&quot;Noto Sans TC&quot;,serif;font-size:12pt;"><span lang="ZH-TW" dir="ltr">아</span><span lang="EN-US" dir="ltr">.</span><span lang="ZH-TW" dir="ltr">이</span><span lang="EN-US" dir="ltr">.</span><span lang="ZH-TW" dir="ltr">유</span></span></p>
